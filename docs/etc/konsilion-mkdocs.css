@@ -1,0 +1,249 @@
+:root > * {
+	/*--color-back-form: rgba(245, 245, 245, 0.9);
+	--color-button: #1FAA1F;
+	--md-primary-fg-color: #2B8DCE !important;
+	--md-primary-fg-color-light: rgba(19,96,149,0.2) !important;
+	--md-primary-fg-color--dark: #505050;*/
+}
+
+#######################################
+
+h1 {
+    display: none !important;
+    color: red;
+}
+
+
+/* ---- BODY WITH FULL WIDTH & HEIGTH ---- */
+
+.md-main__inner { 
+    max-width: 100%;
+    padding: 0px;
+    margin: 0px;
+} 
+
+
+.md-sidebar--primary {
+    left: 0; 
+} 
+
+
+.md-sidebar--secondary {
+    right: 0; 
+    margin-left: 0; 
+    -webkit-transform: none; 
+    transform: none; 
+}
+
+.md-sidebar.md-sidebar--secondary {
+    display: none;
+}
+
+.md-grid { 
+    max-width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.md-content__inner.md-typeset > h1 {
+        display: none;
+}
+
+.md-content__inner.md-typeset::before {
+        display: none;
+}
+
+
+
+.div-cleanbody {
+   padding: 50px;
+}
+
+@media only screen and (max-width: 1219px) {
+    .div-cleanbody {
+       padding: 25px 15px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------ NAVIGATION ------ */
+
+.md-header {
+    background-color: var(--md-primary-fg-color);
+    background-image: var(--md-primary-fg-color);
+}
+
+.md-header__title {
+	margin-left:0px;
+}
+
+.md-tabs {
+    background-color: rgba(0,0,0,.7) !important;
+    padding: 0px;
+}
+
+.md-tabs__item {
+    max-height: 35px;
+    vertical-align: middle;
+}
+
+
+.md-tabs__item:hover, .md-tabs__item:hover > a  {
+    background-color: #DDD !important;
+    color: black !important;
+}
+
+.md-tabs__link {
+    color: #DDD;
+    max-height: 10px;
+    vertical-align: middle;
+    margin-top:8px;
+}
+
+.md-tabs__inner.md-grid, .md-header__inner.md-grid {
+    margin:0px !important;
+
+}
+
+
+
+
+
+
+@media only screen and (min-width: 960px) {
+    .md-nav__link--passed {
+        color: #BBB
+    }
+}
+
+
+.md-header__title {
+display : none;
+}
+
+
+
+@media only screen and (min-width: 1220px) {
+    .md-nav__title {
+        font-size: 18px;
+        color: #666;
+        line-height:20px;
+        margin: 25px auto;
+    }
+    
+    .md-sidebar {
+        max-width: 300px;
+        width: 20%;
+        min-width: 200px;
+        padding: 0px !important;
+    }
+    
+    .md-sidebar > * {
+        background-color: rgba(250,250,250,1) !important;        
+        padding-left: 10px;
+        margin: 0;
+        
+    box-shadow: 5px 0px 8px rgba(0,0,0,0.1);
+    }
+}   
+
+
+.md-nav__link {
+    color: rgba(125,125,125,1) ;
+    font-size:15px;
+}
+
+.md-nav__link.md-nav__link--active {
+    color: Black;
+    font-size:19px;
+    text-decoration: underline var(--md-primary-fg-color); 
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+.md-header__source {
+    right:0px;
+}
+
+
+.md-footer__inner.md-grid {
+    display:none !important;
+}
+
+a.md-content__button.md-icon {
+    display: none !important;
+}
+
+a.md-source {
+    display: none !important;
+}
+
+/* ------ COMMUN CLASS ------*/
+
+.show {
+  display: block !important;
+}
+
+.hide {
+  display: none !important;
+}
+
+.ellipsis {
+    max-width: 100px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+    
+
+
+/* ------ KONSILION ADMONITION ------ */
+
+
+:root {
+  --md-admonition-icon--ksln-info: url(https://img.icons8.com/ios-glyphs/344/info--v1.png)
+}
+.md-typeset .admonition.ksln-info,
+.md-typeset details.ksln-info {
+  border-color: white;
+}
+.md-typeset .ksln-info > .admonition-title,
+.md-typeset .ksln-info > summary {
+  background-color: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+}
+.md-typeset .ksln-info > .admonition-title::before,
+.md-typeset .ksln-info > summary::before {
+  background-color: var(--md-primary-bg-color);
+  -webkit-mask-image: var(--md-admonition-icon--ksln-info);
+          mask-image: var(--md-admonition-icon--ksln-info);
+}
+

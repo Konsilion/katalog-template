@@ -1,0 +1,160 @@
+
+    .datami-widget {
+        background-color: white !important;
+    }
+
+    .section {
+        padding: 0px;
+    }
+
+.upper-container {
+      margin-bottom: 20px;  
+      border-width: 0px 0px 4px 0px;
+      border-style: solid;
+      border-image: linear-gradient(to right, #EEE, white) 0.5;    
+}
+
+    .container {
+        max-width: 100% !important;
+    }
+    
+    .container.mb-4 {
+        margin-top: 50px !important;
+    }
+    
+    .mdi {
+        font-size:18px;
+        color: var(--md-primary-fg-color--light);
+    }
+    
+    .mdi-close {
+        color: red;
+    }
+
+    .CustomFilterDropdown {
+       border: 1px solid #DDD;
+       border-radius: 25px;
+    }
+
+    .navbar-link.is-arrowless {
+       border-radius: 25px;
+    }
+
+    .card {
+        background-color: white !important;
+        border-radius: 20px;
+        box-shadow: 0 0em 1em -.125em hsla(0,0%,4%,.1), 0 0 0 1px hsla(0,0%,4%,.02);
+    }
+    
+    .card-header {
+        padding-bottom: 12px;
+    }
+
+    .card-header-icon > div > div > span > .mdi-eye {
+        color: white;
+    }
+
+
+    .card-content {
+        padding: 15px;
+
+    }
+
+    .card-footer {
+        border-top: 0px; 
+    }
+    
+    .card:hover {
+        box-shadow: 0 14px 28px rgb(0 0 0 / 5%), 0px 0px 10px var(--md-primary-fg-color--light);
+    }
+
+    .DatamiCardBlockImage {
+        justify-content: center !important;
+        text-align: center !important;
+        max-height: 150px;
+        border-top: 1px solid #DDD;
+        border-bottom: 1px solid #DDD;
+        overflow: hidden;
+        background-color: #f9f9f9;
+    }
+    
+    .DatamiCardBlockImage > figure > img {
+        margin: 10px auto;
+        object-fit: cover;
+        display: block;
+        width: 80%;
+        max-height: 130px;
+    }
+    
+
+    .DatamiCardBlockTags {
+        padding-top:25px;
+
+    }
+
+    .PreviewCsv {
+        margin-top:40px;
+    }
+
+    @media only screen and (max-width: 768px) {
+        .column.is-4, .column.is-4-tablet {
+            -webkit-box-flex: 0;
+            -ms-flex: none;
+            flex: none;
+            width: 100%;
+        }
+    }    
+    
+    @media only screen and (min-width: 769px) and (max-width: 1199px) {
+        .column.is-4, .column.is-4-tablet {
+            -webkit-box-flex: 0;
+            -ms-flex: none;
+            flex: none;
+            width: 50%;
+        }
+    }
+
+    
+    @media only screen and (min-width: 1200px) and (max-width: 1450px) {
+        .column.is-4, .column.is-4-tablet {
+            -webkit-box-flex: 0;
+            -ms-flex: none;
+            flex: none;
+            width: 33.33333337%;
+        }
+    }
+    
+    
+    @media only screen and (min-width: 1451px) {
+        .column.is-4, .column.is-4-tablet {
+            -webkit-box-flex: 0;
+            -ms-flex: none;
+            flex: none;
+            width: 25%;
+        }
+    }
+
+    
+    .columns.is-mobile>.column.is-10 {
+        flex: 1;
+    }
+
+    .button.outlink {
+        width: 100%;
+    }
+    
+    .button.is-small:not(.is-rounded){
+        border-radius: 25px;
+    }
+    
+    .button.is-dark.is-outlined {
+        border-color: #DDD;
+    }
+    
+    .is-dark.input {
+        border-color: #DDD;
+    }
+    
+.ButtonDarkMode, .ButtonChangeUserBranch, .ButtonReloadFile, .ButtonFullscreen, .ButtonChangeLocale  {
+    display: none;
+} 

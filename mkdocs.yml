@@ -1,0 +1,80 @@
+# BIENVENU ! MODIFIER ICI LES PARAMETRES DE VOTRE PLATEFORME KATALOG
+# --------------------------------------------------------------------------------------------------------------------------------------------------
+#
+# Konsilion - Licence juridique Creative Commons CC-BY-NC
+# --------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+# SITE INFORMATIONS 
+# --------------------------------------------------------------------------------------------------------------------------------------------------
+
+site_name: Katalog - Plateforme de ressources ouvertes
+site_author: Nicolas Brémond
+site_description: Une plateforme de science ouverte et open-data, pour la Low-technologie.
+
+
+
+
+
+# LANGUE, COULEURS et LOGO
+# --------------------------------------------------------------------------------------------------------------------------------------------------
+
+theme:
+    language: fr
+    palette:
+        primary: green
+        accent: orange
+    logo: https://konsilion.fr/wp/wp-content/uploads/2022/08/image-250x300.png
+    favicon: https://konsilion.fr/wp/wp-content/uploads/2022/08/image-250x300.png
+
+# [Liste des couleurs](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color)
+
+
+
+
+
+# MENTIONS 
+# --------------------------------------------------------------------------------------------------------------------------------------------------
+
+copyright: Konsilion - Licence juridique Creative Commons CC-BY-NC 4.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ============  /!\ NE PAS MODIFIER /!\ - procedure d'appel du fichier 'env' pour le parametrage  ============
+
+INHERIT: ./docs/env  

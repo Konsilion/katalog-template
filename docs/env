@@ -1,0 +1,45 @@
+# ============== NE PAS MODIFIER CETTE PAGE ==============
+
+nav:
+
+    - Accueil: index.md
+
+    - Projets: etc/projets/home.md
+
+    - Ressources: etc/ressources/home.md
+    
+    - Stockages: etc/stockages/home.md
+    
+    - Communauté: etc/communaute/home.md
+    
+
+  
+theme: 
+  name: material
+  features:
+    - navigation.indexes
+    - navigation.tracking
+  palette:
+      scheme: default
+
+
+plugins:
+  - macros
+
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - md_in_html
+  - footnotes
+  - admonition
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - pymdownx.details
+
+
+extra_css:
+  - https://konsilion.github.io/katalog-setup/css/katalog.css
+  - https://konsilion.github.io/katalog-setup/css/personnal-datami.css
