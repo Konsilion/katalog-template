@@ -45,7 +45,7 @@ In placerat suscipit ante, sed commodo arcu congue non. Donec nec iaculis odio. 
 
 ???+ tip "Logique générale"
 
-   Nam hendrerit, arcu quis congue maximus, ex libero vestibulum nunc, ut viverra libero arcu in nunc. Duis tempus convallis neque non auctor. Cras in tincidunt tellus, in volutpat mi. Ut pharetra mi nec placerat euismod. Aliquam sollicitudin justo consequat, fringilla magna eget, porta velit. Sed aliquet lectus dolor. Quisque nec euismod ligula.
+    Nam hendrerit, arcu quis congue maximus, ex libero vestibulum nunc, ut viverra libero arcu in nunc. Duis tempus convallis neque non auctor. Cras in tincidunt tellus, in volutpat mi. Ut pharetra mi nec placerat euismod. Aliquam sollicitudin justo consequat, fringilla magna eget, porta velit. Sed aliquet lectus dolor. Quisque nec euismod ligula.
 
 
 ??? tip "À propos des technologies supports - *Mkdocs & Datami*"
