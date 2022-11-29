@@ -17,13 +17,16 @@ Pour la phase d'installation il vous faut un compte GitHub et c'est tout. Si c'e
 
 * Modification du fichier de configuration : mkdocs.yml
 
-Certains des paramètres de votre plateforme sont configurés à l'aide d'un fichier de configuration YAML. Ce dernier se trouve dans le répertoire du projet et est nommé mkdocs.yml. Nous vous laissons en prendre connaissance et suivre les instructions qui y sont indiquées.  Disponible à l'édition en bas de cette page par un lien de redirection. 
+Certains des **paramètres de votre plateforme** sont configurés à l'aide d'un fichier de **configuration YAML**. Ce dernier se trouve dans le répertoire du projet et est nommé **mkdocs.yml**. Nous vous laissons en prendre connaissance et **suivre les instructions** qui y sont indiquées.
+
+👉 *Le fichier est disponible en bas de cette page par le biais d'un lien de redirection.*
+
 
 * Modification du fichier de configuration : katalog.json
 
-La technologie Datami est un  essentiel de la plateforme Katalog et elle nécessitent une mise au point initiale. Concrètement il faut indiquer dans le fichier konsilion.json la localisation et la clé publique de votre instance Katalog. 
+La **technologie Datami est un  essentiel** de la plateforme Katalog et elle nécessitent une **mise au point initiale**. Concrètement il faut indiquer dans le fichier konsilion.json la **localisation et la clé publique** de votre instance Katalog. 
 
-*Le fichier est disponible en bas de cette page par un lien de redirection.*
+👉 *Le fichier est disponible en bas de cette page par le biais d'un lien de redirection.*
 
 ---
 
@@ -31,7 +34,7 @@ La technologie Datami est un  essentiel de la plateforme Katalog et elle nécess
 
 Vous êtes fin prêt à déployer votre plateforme et de la rendre accesible à toutes et tous. Ainsi nous vous invitons à suivre ce lien et de vous laissez guider par l'image ci-contre.
 
-
+![image](https://konsilion.fr/wp/wp-content/uploads/2022/11/gh-pages-1024x761.png)
 
 ---
 
