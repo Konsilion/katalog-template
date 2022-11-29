@@ -60,7 +60,8 @@ Sed aliquet lectus dolor. Quisque nec euismod ligula. Donec iaculis mollis nibh 
 
 !!! note ""
 
-    **L’ouverture est le gage** d’une recherche mieux documentée, plus étayée et compilée. 
+    Afin que la compréhension des outils, n'interfère pas avec l'acquisition des méthodes. 
+
 
 ### La logique de modération impliquée
 
