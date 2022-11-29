@@ -8,16 +8,15 @@ Avec Katalog, diffusez ou retrouvez tout les savoirs dont vous avez besoin. Ains
 
 **[Cliquer sur ce lien](https://github.com/Konsilion/katalog-template/generate)** et suivre les étapes.
 
-
-
 👉 Reprendre la lecture de ce document depuis votre répertoire fraichement créé. 
 
 Les liens suivants y font références et doivent être cliqués depuis ce répertoire 😉
 
----
-
 
 ## Paramètrage initial - Git informations 
+
+📌 Vous êtes bien sur votre répertoire créé ? Si l'adresse Web actuelle est https://github.com/konsilion/katalog-template, alors vous n'êtes pas au bon endroit pour cette étape, vous devez allez sur votre répertoire créé lors de l'installation.
+
 
 * **Etape 1 - Paramètrage de l'application** : Renseigner les informations essentielles de votre plateforme en [cliquant ici](../../edit/master/docs/konsilion.json)
   * **repo** :
