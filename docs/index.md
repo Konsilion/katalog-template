@@ -15,16 +15,17 @@ Pour la phase d'installation il vous faut un compte GitHub et c'est tout. Si c'e
 
 ## Paramètres techniques et visuels 🔏
 
-* Modification du fichier de configuration : mkdocs.yml
+### Modification du fichier de configuration : mkdocs.yml
+
 Certains des **paramètres de votre plateforme** sont configurés à l'aide d'un fichier de **configuration YAML**. Ce dernier se trouve dans le répertoire du projet et est nommé **mkdocs.yml**. Nous vous laissons en prendre connaissance et **suivre les instructions** qui y sont indiquées.
 
-*L'url a composer est : https://github.com/**<nom-utilisateur>**/**<nom-repertoire>**/settings/pages*
+* L'url a composer est : www.github.com/**nom-utilisateur**/**nom-du-repertoire**/blob/master/mkdocs.yml
 
-
-* Modification du fichier de configuration : katalog.json
+### Modification du fichier de configuration : katalog.json
+   
 La **technologie Datami est un  essentiel** de la plateforme Katalog et elle nécessitent une **mise au point initiale**. Concrètement il faut indiquer dans le fichier konsilion.json la **localisation et la clé publique** de votre instance Katalog. 
 
-*L'url a composer est : https://github.com/**<nom-utilisateur>**/**<nom-repertoire>**/settings/pages*
+* L'url a composer est : www.github.com/**nom-utilisateur**/**nom-repertoire**/blob/master/docs/konsilion.json
 
 ---
 
@@ -32,10 +33,16 @@ La **technologie Datami est un  essentiel** de la plateforme Katalog et elle né
 
 Vous êtes fin prêt à déployer votre propre plateforme et de la rendre accesible à toutes et tous. Ainsi nous vous invitons à composer et suivre le lien suivant et de suivre ce [tutoriel](https://konsilion.fr/wp/recherche-et-developpement/katalog/).
 
-*L'url a composer est : https://github.com/**<nom-utilisateur>**/**<nom-repertoire>**/settings/pages*
+* L'url a composer est : www.github.com/**nom-utilisateur**/**nom-repertoire**/settings/pages
 
 ---
-   
+
+## Votre plateforme est fin prête ✨
+
+Bien joué !
+
+---
+
 ## Prise en main de la plateforme 📖
 
 In placerat suscipit ante, sed commodo arcu congue non. Donec nec iaculis odio. Pellentesque maximus imperdiet ex sed hendrerit. Sed tempus metus nisl, et vulputate enim tristique sit amet.
