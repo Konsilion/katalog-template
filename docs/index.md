@@ -36,7 +36,6 @@ Phasellus pellentesque et mi ac suscipit. Lorem ipsum dolor sit amet, consectetu
 
 In placerat suscipit ante, sed commodo arcu congue non. Donec nec iaculis odio. Pellentesque maximus imperdiet ex sed hendrerit. Sed tempus metus nisl, et vulputate enim tristique sit amet.
 
----
 
 ### Logique générale
 
@@ -45,8 +44,6 @@ Nam hendrerit, arcu quis congue maximus, ex libero vestibulum nunc, ut viverra l
 Ut pharetra mi nec placerat euismod. Aliquam sollicitudin justo consequat, fringilla magna eget, porta velit. Sed aliquet lectus dolor. Quisque nec euismod ligula. Donec iaculis mollis nibh laoreet congue. Faucibus orci luctus et ultrices posuere cubilia curae. 
 
 Vivamus varius lacinia ultrices. Proin tristique leo in mi lobortis, vel eleifend enim rutrum. Nulla scelerisque ipsum vitae nibh finibus convallis. Aliquam euismod mollis dolor, at tincidunt purus porttitor nec. Donec facilisis, risus ac fermentum vulputate, nisi mauris pellentesque massa, ac vulputate libero quam sit amet ipsum.
-
----
 
 ### À propos des technologies supports - *Mkdocs & Datami*
 
