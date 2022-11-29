@@ -13,40 +13,40 @@ Pour la phase d'installation il vous faut un compte GitHub et c'est tout. Si c'e
 
 ---
 
-## Paramètres techniques et visuels 🔏
+### Paramètres techniques et visuels 🔏
 
-### Modification du fichier de configuration : mkdocs.yml
+#### Modification du fichier de configuration : mkdocs.yml
 
 Certains des **paramètres de votre plateforme** sont configurés à l'aide d'un fichier de **configuration YAML**. Ce dernier se trouve dans le répertoire du projet et est nommé **mkdocs.yml**. Nous vous laissons en prendre connaissance et **suivre les instructions** qui y sont indiquées.
 
 !!! note ""
 
-    L'url à composer est : www.github.com/**nom-utilisateur**/**nom-du-repertoire**/blob/master/mkdocs.yml
+    **L'url à composer** est : *www.github.com/**nom-utilisateur**/**nom-du-repertoire**/blob/master/mkdocs.yml*
 
 
-### Modification du fichier de configuration : katalog.json
+#### Modification du fichier de configuration : katalog.json
    
 La **technologie Datami est un  essentiel** de la plateforme Katalog et elle nécessitent une **mise au point initiale**. Concrètement il faut indiquer dans le fichier konsilion.json la **localisation et la clé publique** de votre instance Katalog. 
 
 !!! note ""
 
-    L'url à composer est : www.github.com/**nom-utilisateur**/**nom-repertoire**/blob/master/docs/konsilion.json
+    **L'url à composer** est : *www.github.com/**nom-utilisateur**/**nom-repertoire**/blob/master/docs/konsilion.json*
 
 
 ---
 
-## Mise en ligne 🌍
+### Mise en ligne 🌍
 
 Vous êtes fin prêt à déployer votre propre plateforme et de la rendre accesible à toutes et tous. Ainsi nous vous invitons à composer et suivre le lien suivant et de suivre ce [tutoriel](https://konsilion.fr/wp/recherche-et-developpement/katalog/).
 
 !!! note ""
 
-    L'url à composer est : www.github.com/**nom-utilisateur**/**nom-repertoire**/settings/pages
+    **L'url à composer* est : *www.github.com/**nom-utilisateur**/**nom-repertoire**/settings/pages*
 
 
 ---
 
-## Votre plateforme est fin prête ✨
+### **Votre plateforme est fin prête** ✨
 
 Bien joué !
 
@@ -69,6 +69,10 @@ In placerat suscipit ante, sed commodo arcu congue non. Donec nec iaculis odio. 
 
 ---
 
+![image](https://user-images.githubusercontent.com/99027754/204560754-2b7fd7da-a589-4a2d-8c9f-ac2b0445de24.png)
+
+---
+
 ## La logique de modération impliquée 👨‍👧‍👦
 
  Donec tristique magna ac lorem vulputate, id commodo purus tincidunt. Duis id consequat libero, id venenatis massa. Duis vel semper magna. Fusce felis arcu, ultricies vitae odio at, tempor posuere tortor.
@@ -77,8 +81,5 @@ Sed aliquet lectus dolor. Quisque nec euismod ligula. Donec iaculis mollis nibh 
 
 ---
 
-![image](https://user-images.githubusercontent.com/99027754/204560754-2b7fd7da-a589-4a2d-8c9f-ac2b0445de24.png)
-
----
 
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/index.js"></script>
