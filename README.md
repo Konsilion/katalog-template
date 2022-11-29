@@ -9,7 +9,7 @@ Avec Katalog, diffusez ou retrouvez tout les savoirs dont vous avez besoin. Ains
 
 
 
-## Installation : 
+### Installation : 
 
 **[Cliquer sur ce lien](https://github.com/Konsilion/katalog-template/generate)** et suivre les étapes.
 
