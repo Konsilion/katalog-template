@@ -13,9 +13,9 @@ Pour la phase d'installation il vous faut un compte GitHub et c'est tout. Si c'e
 
 ---
 
-### Paramètres techniques et visuels 🔏
+## Paramètres techniques et visuels 🔏
 
-#### Modification du fichier de configuration : mkdocs.yml
+* Modification du fichier de configuration : mkdocs.yml
 
 Certains des **paramètres de votre plateforme** sont configurés à l'aide d'un fichier de **configuration YAML**. Ce dernier se trouve dans le répertoire du projet et est nommé **mkdocs.yml**. Nous vous laissons en prendre connaissance et **suivre les instructions** qui y sont indiquées.
 
@@ -24,7 +24,7 @@ Certains des **paramètres de votre plateforme** sont configurés à l'aide d'un
     **L'url à composer** est : *www.github.com/**nom-utilisateur**/**nom-du-repertoire**/blob/master/mkdocs.yml*
 
 
-#### Modification du fichier de configuration : katalog.json
+* Modification du fichier de configuration : katalog.json
    
 La **technologie Datami est un  essentiel** de la plateforme Katalog et elle nécessitent une **mise au point initiale**. Concrètement il faut indiquer dans le fichier konsilion.json la **localisation et la clé publique** de votre instance Katalog. 
 
@@ -35,7 +35,7 @@ La **technologie Datami est un  essentiel** de la plateforme Katalog et elle né
 
 ---
 
-### Mise en ligne 🌍
+## Mise en ligne 🌍
 
 Vous êtes fin prêt à déployer votre propre plateforme et de la rendre accesible à toutes et tous. Ainsi nous vous invitons à composer et suivre le lien suivant et de suivre ce [tutoriel](https://konsilion.fr/wp/recherche-et-developpement/katalog/).
 
@@ -46,9 +46,7 @@ Vous êtes fin prêt à déployer votre propre plateforme et de la rendre accesi
 
 ---
 
-### **Votre plateforme est fin prête** ✨
-
-Bien joué !
+### **Votre plateforme est fin prête** ✨ 
 
 ---
 
@@ -58,6 +56,8 @@ In placerat suscipit ante, sed commodo arcu congue non. Donec nec iaculis odio. 
 
 ???+ tip "Logique générale"
 
+    Phasellus pellentesque et mi ac suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fermentum sagittis tincidunt. Quisque quis velit nec elit euismod finibus et aliquet est. Vestibulum aliquet pulvinar lacus vel ullamcorper. Donec tristique magna ac lorem vulputate, id commodo purus tincidunt. Duis id consequat libero, id venenatis massa. Duis vel semper magna. Fusce felis arcu, ultricies vitae odio at, tempor posuere tortor.
+
 
 ??? tip "À propos des technologies supports - *Mkdocs & Datami*"
 
@@ -66,6 +66,9 @@ In placerat suscipit ante, sed commodo arcu congue non. Donec nec iaculis odio. 
     
     * Datami: 
     Vivamus varius lacinia ultrices. Proin tristique leo in mi lobortis, vel eleifend enim rutrum. Nulla scelerisque ipsum vitae nibh finibus convallis. Sed aliquet lectus dolor. Quisque nec euismod ligula. Donec iaculis mollis nibh laoreet congue.
+
+
+??? tip "À propos des technologies supports - *Mkdocs & Datami*"
 
 ---
 
