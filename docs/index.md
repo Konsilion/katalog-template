@@ -9,8 +9,7 @@ Rendre accessibles les résultats de la recherche en partageant autant que possi
 
 ## Installation 👌
 
-Phasellus pellentesque et mi ac suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fermentum sagittis tincidunt. Quisque quis velit nec elit euismod finibus et aliquet est. Vestibulum aliquet pulvinar lacus vel ullamcorper. Donec tristique magna ac lorem vulputate, id commodo purus tincidunt. Duis id consequat libero, id venenatis massa. Duis vel semper magna. Fusce felis arcu, ultricies vitae odio at, tempor posuere tortor.
-
+Pour la phase d'installation il vous faut un compte GitHub et c'est tout. Si c'est le cas, vous pouvez [installer votre instance katalog](https://github.com/nbrem/katalog-template/generate) sur votre compte GitHub.
 
 ---
 
