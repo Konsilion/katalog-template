@@ -23,8 +23,6 @@ Les liens suivants y font références et doivent être cliqués depuis ce répe
 
 📌 Vous êtes bien sur **votre répertoire fraichement créé** ? 👌
 
----
-
 
 ### *Paramètres initiaux - Git informations*
 
@@ -35,6 +33,8 @@ Les liens suivants y font références et doivent être cliqués depuis ce répe
   Clé d'accès universelle permettant à tout un chacun de participer au sein de votre plateforme. [Lien vers la création d'un Token](https://github.com/settings/tokens/new)
 
 **Étape 2 - Mise en ligne de l'application** : Afin de publier votre application et la rendre visible, il vous faut renseigner les informations de la [rubrique Gh-Pages](../../settings/pages)
+
+---
 
 
 ### *Paramètrages visuels - Mkdocs information*
