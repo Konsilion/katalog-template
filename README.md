@@ -4,24 +4,26 @@
 
 Avec Katalog, diffusez ou retrouvez tout les savoirs dont vous avez besoin. Ainsi accessible en base de données distribuées, les connaissances se propagent sans limites.
 
+![](https://konsilion.fr/wp/wp-content/uploads/2022/11/exemple-katalog-1024x544.png)
+
+
+
+
 ## Installation : 
 
 **[Cliquer sur ce lien](https://github.com/Konsilion/katalog-template/generate)** et suivre les étapes.
 
-
-![](https://konsilion.fr/wp/wp-content/uploads/2022/11/exemple-katalog-1024x544.png)
-
+---
 
 👉 Reprendre la lecture de ce document depuis **votre répertoire fraichement créé**. 
 
 Les liens suivants y font références et doivent être cliqués depuis ce répertoire 😉
 
-
-## Paramètrage initial - Git informations 
-
 📌 Vous êtes bien sur **votre répertoire fraichement créé** ? 👌
 
 ---
+
+## Paramètrage initial - Git informations 
 
 * **Etape 1 - Paramètrage de l'application** : Renseigner les informations essentielles de votre plateforme en [cliquant ici](../../edit/master/docs/konsilion.json)
   * **repo** :
