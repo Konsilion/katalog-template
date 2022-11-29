@@ -30,6 +30,8 @@ Phasellus pellentesque et mi ac suscipit. Lorem ipsum dolor sit amet, consectetu
 
 Phasellus pellentesque et mi ac suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fermentum sagittis tincidunt. Quisque quis velit nec elit euismod finibus et aliquet est. 
 
+---
+
 ## Prise en main de la plateforme 📖
 
 In placerat suscipit ante, sed commodo arcu congue non. Donec nec iaculis odio. Pellentesque maximus imperdiet ex sed hendrerit. Sed tempus metus nisl, et vulputate enim tristique sit amet.
