@@ -15,11 +15,10 @@ Pour la phase d'installation il vous faut un compte GitHub et c'est tout. Si c'e
 
 ## Mise en ligne 🌍
 
-Vous êtes fin prêt à déployer votre propre plateforme et de la rendre accesible à toutes et tous. Ainsi nous vous invitons à composer et suivre le lien suivant et de vous laissez guider par l'image ci-contre.
+Vous êtes fin prêt à déployer votre propre plateforme et de la rendre accesible à toutes et tous. Ainsi nous vous invitons à composer et suivre le lien suivant et de suivre ce [tutoriel](https://konsilion.fr/wp/recherche-et-developpement/katalog/).
 
-L'url composé est : https://github.com/**<nom-utilisateur>**/**<nom-repertoire>**/settings/pages
+*L'url a composer est : https://github.com/**<nom-utilisateur>**/**<nom-repertoire>**/settings/pages*
 
-![image](https://konsilion.fr/wp/wp-content/uploads/2022/11/gh-pages-1024x761.png)
 
 ---
 
