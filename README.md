@@ -23,6 +23,7 @@ Avec Katalog, diffusez ou retrouvez tout les savoirs dont vous avez besoin. Ains
 
 📌 Vous êtes bien sur **votre répertoire fraichement créé** ? 👌
 
+---
 
 ### *Paramètres initiaux - Git informations*
 
