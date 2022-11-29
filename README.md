@@ -4,23 +4,23 @@
 
 Avec Katalog, diffusez ou retrouvez tout les savoirs dont vous avez besoin. Ainsi accessible en base de données distribuées, les connaissances se propagent sans limites.
 
+---
+
+:red_circle: *Après l'étape d'installation ==> Reprendre la lecture de ce document depuis votre répertoire. Les liens suivants y font références et doivent être cliqués depuis ce répertoire* 😉
+
+---
 
 ## Installation : 
 
 **[Cliquer sur ce lien](https://github.com/Konsilion/katalog-template/generate)** et suivre les étapes.
 
----
-
-:red_circle: *Reprendre la lecture de ce document depuis votre répertoir Git fraichement créé*
-
----
-
-
-## Paramètrage initial - Git informations : 
+## Paramètrage initial - Git informations 
 
 * **Etape 1 - Paramètrage de l'application** : Renseigner les informations essentielles de votre plateforme en [cliquant ici](../../edit/master/docs/konsilion.json)
-  * L'information **repo** correspond à l'url de votre répertoir git crée à l'étape d'installation (exemple : https://github.com/nbrem/katalog)
-  * Le token est la clé d'accès universel afin de permettre à tout un chacun de participer au sein de votre plateforme. [Lien vers la création d'un Token](https://github.com/settings/tokens/new)
+  * **repo** :
+  Url de votre répertoire git crée à l'étape d'installation (exemple : https://github.com/nbrem/katalog)
+  * **token** : 
+  Clé d'accès universelle permettant à tout un chacun de participer au sein de votre plateforme. [Lien vers la création d'un Token](https://github.com/settings/tokens/new)
 
 * **Étape 2 - Mise en ligne de l'application** : Afin de publier votre application et la rendre visible, il vous faut renseigner les informations de la [rubrique Gh-Pages](../../settings/pages)
 
