@@ -35,14 +35,6 @@ Phasellus pellentesque et mi ac suscipit. Lorem ipsum dolor sit amet, consectetu
 
 In placerat suscipit ante, sed commodo arcu congue non. Donec nec iaculis odio. Pellentesque maximus imperdiet ex sed hendrerit. Sed tempus metus nisl, et vulputate enim tristique sit amet.
 
-??? tip ""
-
-    Nam hendrerit, arcu quis congue maximus, ex libero vestibulum nunc, ut viverra libero arcu in nunc. Duis tempus convallis neque non auctor. Cras in tincidunt tellus, in volutpat mi. Ut pharetra mi nec placerat euismod. Aliquam sollicitudin justo consequat, fringilla magna eget, porta velit. Sed aliquet lectus dolor. Quisque nec euismod ligula. 
-
-
-
-
-
 ???+ tip "Logique générale"
 
    Nam hendrerit, arcu quis congue maximus, ex libero vestibulum nunc, ut viverra libero arcu in nunc. Duis tempus convallis neque non auctor. Cras in tincidunt tellus, in volutpat mi. Ut pharetra mi nec placerat euismod. Aliquam sollicitudin justo consequat, fringilla magna eget, porta velit. Sed aliquet lectus dolor. Quisque nec euismod ligula.
