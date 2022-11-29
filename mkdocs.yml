@@ -17,7 +17,9 @@ nav:
     
     - Stockages: etc/stockages/home.md
     
-    - Communauté: etc/communaute/home.md
+    - Partenaires: etc/communaute/home.md
+    
+    - Contacts: informations.md
     
 
 
@@ -40,8 +42,8 @@ site_description: Une plateforme de science ouverte et open-data, pour la Low-te
 theme:
     language: fr
     palette:
-        primary: green
-        accent: orange
+        primary: blue
+        accent: blue
         scheme: default
     logo: https://konsilion.fr/wp/wp-content/uploads/2022/08/image-250x300.png
     favicon: https://konsilion.fr/wp/wp-content/uploads/2022/08/image-250x300.png
@@ -69,6 +71,4 @@ copyright: Konsilion - Licence juridique Creative Commons CC-BY-NC 4.0
 # CSS
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
-extra_css:
-  - https://konsilion.github.io/katalog-setup/css/katalog.css
-  - https://konsilion.github.io/katalog-setup/css/personnal-datami.css
+plugins: []
