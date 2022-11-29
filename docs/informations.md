@@ -13,7 +13,7 @@
 
 ---
 
-## **Visioconférence**
+## Visioconférence
 
 Voici deux salons mis à disposition pour ce projet :
 
