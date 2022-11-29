@@ -19,13 +19,19 @@ Pour la phase d'installation il vous faut un compte GitHub et c'est tout. Si c'e
 
 Certains des **paramètres de votre plateforme** sont configurés à l'aide d'un fichier de **configuration YAML**. Ce dernier se trouve dans le répertoire du projet et est nommé **mkdocs.yml**. Nous vous laissons en prendre connaissance et **suivre les instructions** qui y sont indiquées.
 
-* L'url a composer est : www.github.com/**nom-utilisateur**/**nom-du-repertoire**/blob/master/mkdocs.yml
+!!! note ""
+
+    L'url à composer est : www.github.com/**nom-utilisateur**/**nom-du-repertoire**/blob/master/mkdocs.yml
+
 
 ### Modification du fichier de configuration : katalog.json
    
 La **technologie Datami est un  essentiel** de la plateforme Katalog et elle nécessitent une **mise au point initiale**. Concrètement il faut indiquer dans le fichier konsilion.json la **localisation et la clé publique** de votre instance Katalog. 
 
-* L'url a composer est : www.github.com/**nom-utilisateur**/**nom-repertoire**/blob/master/docs/konsilion.json
+!!! note ""
+
+    L'url à composer est : www.github.com/**nom-utilisateur**/**nom-repertoire**/blob/master/docs/konsilion.json
+
 
 ---
 
@@ -33,7 +39,10 @@ La **technologie Datami est un  essentiel** de la plateforme Katalog et elle né
 
 Vous êtes fin prêt à déployer votre propre plateforme et de la rendre accesible à toutes et tous. Ainsi nous vous invitons à composer et suivre le lien suivant et de suivre ce [tutoriel](https://konsilion.fr/wp/recherche-et-developpement/katalog/).
 
-* L'url a composer est : www.github.com/**nom-utilisateur**/**nom-repertoire**/settings/pages
+!!! note ""
+
+    L'url à composer est : www.github.com/**nom-utilisateur**/**nom-repertoire**/settings/pages
+
 
 ---
 
@@ -49,8 +58,6 @@ In placerat suscipit ante, sed commodo arcu congue non. Donec nec iaculis odio. 
 
 ???+ tip "Logique générale"
 
-   Nam hendrerit, arcu quis congue maximus, ex libero vestibulum nunc, ut viverra libero arcu in nunc. Duis tempus convallis neque non auctor. Cras in tincidunt tellus, in volutpat mi. Ut pharetra mi nec placerat euismod. Aliquam sollicitudin justo consequat, fringilla magna eget, porta velit. Sed aliquet lectus dolor. Quisque nec euismod ligula.
-
 
 ??? tip "À propos des technologies supports - *Mkdocs & Datami*"
 
@@ -60,9 +67,9 @@ In placerat suscipit ante, sed commodo arcu congue non. Donec nec iaculis odio. 
     * Datami: 
     Vivamus varius lacinia ultrices. Proin tristique leo in mi lobortis, vel eleifend enim rutrum. Nulla scelerisque ipsum vitae nibh finibus convallis. Sed aliquet lectus dolor. Quisque nec euismod ligula. Donec iaculis mollis nibh laoreet congue.
 
+---
 
-
-### La logique de modération impliquée
+## La logique de modération impliquée 👨‍👧‍👦
 
  Donec tristique magna ac lorem vulputate, id commodo purus tincidunt. Duis id consequat libero, id venenatis massa. Duis vel semper magna. Fusce felis arcu, ultricies vitae odio at, tempor posuere tortor.
 
