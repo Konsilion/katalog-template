@@ -1,49 +1,39 @@
-var path = document.getElementById("CallDatami").getAttribute("path");
+const appId = window.location.pathname.split('/');
+var name = appId[appId.length - 3]
+
 var title = document.getElementById("CallDatami").getAttribute("title");
-var img = document.getElementById("CallDatami").getAttribute("src-img");
+
+var descr = document.getElementById("CallDatami").getAttribute("descr");
+
 var model = document.getElementById("CallDatami").getAttribute("model");
 
 
-function DatamiConstruction() {
 
-    console.log()
-    
-    var url = window.location.pathname + path;
-
-    Papa.parse(window.location.pathname + path, { 
-        download: true,
-        delimiter: ";",
-        skipEmptyLines: true,
-        complete: results => {
-            TakeTheToken(results.data.slice(0));
-        }
-    });
-}
+// --------------------------------------------------
 
 
-function TakeTheToken(data) {
+
+function TakeTheToken() {
     var url = window.location.pathname + '../../../git.json';
     fetch(url)
     .then(response => response.json())
     .then(json => {
-        DatamiKatalog(data,json.token,json.repo);
+        DatamiKatalog(json.token,json.repo);
     });
 }
 
-//datami-file-previews
 
-function DatamiKatalog(data,token,repo) {
 
-    let html = ""
+function DatamiKatalog(token,repo) {
 
-    let grid = document.getElementById('DatamiGrid');
-
+    let htlm = "";
+    
     switch (model) {
       case '1':
-        html += `<!-- DATAMI WIDGET'S HTML BLOCK -->
+        html = `<!-- DATAMI WIDGET'S HTML BLOCK -->
                     <datami-file
                       title="` + title + `"
-                      gitfile="` + repo + `/docs/master/docs/etc/` + path.split('/')[1].split('.')[0] + `/` + path.split('/')[1] + `"
+                      gitfile="` + repo + `/docs/master/docs/etc/` + name + `/data.csv"
                       options='{
                       "height": "500px",
                       "separator": ";",
@@ -104,10 +94,10 @@ function DatamiKatalog(data,token,repo) {
                     ></datami-file> `;
         break;
       case '2':
-        html += `<!-- DATAMI WIDGET'S HTML BLOCK -->
+        html = `<!-- DATAMI WIDGET'S HTML BLOCK -->
                     <datami-file
                       title="` + title + `"
-                      gitfile="` + repo + `/docs/master/docs/etc/` + path.split('/')[1].split('.')[0] + `/` + path.split('/')[1] + `"
+                      gitfile="` + repo + `/docs/master/docs/etc/` + name + `/data.csv"
                       options='{
                       "height": "500px",
                       "separator": ";",
@@ -168,27 +158,18 @@ function DatamiKatalog(data,token,repo) {
         console.log(`Sorry, we are out of ${model}.`);
     }
     
-    grid.innerHTML += html;
+    document.getElementById('DatamiGrid').innerHTML += html;
+    
+    setTimeout(function() {
+        const elem = document.createElement("p");
+            elem.setAttribute("id", "DescrKatalog")
+            elem.appendChild(document.createTextNode(descr));  
+
+
+        var child = document.getElementsByClassName("PreviewCsv")[0];
+            child.parentNode.insertBefore(elem, child);
+
+    }, 1500);    
 }
 
-DatamiConstruction();
-
-
-
-var descr = document.getElementById("CallDatami").getAttribute("descr");
-var text = document.createTextNode(descr);
-
-setTimeout(function() {
-
-    const para = document.createElement("p");
-    para.setAttribute("id", "DescrKatalog")
-    const node = document.createTextNode(descr);
-
-
-    para.appendChild(node);  
-
-
-    var child = document.getElementsByClassName("PreviewCsv")[0];
-    child.parentNode.insertBefore(para, child);
-
-}, 1000);
+TakeTheToken();

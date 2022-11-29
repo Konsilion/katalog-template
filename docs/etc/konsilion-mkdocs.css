@@ -13,6 +13,9 @@ h1 {
     color: red;
 }
 
+.md-search {
+    display: none;
+}
 
 /* ---- BODY WITH FULL WIDTH & HEIGTH ---- */
 

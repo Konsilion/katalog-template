@@ -1,8 +1,7 @@
 <div id="DatamiGrid" class="div-cleanbody"></div>
 
-<script id="CallDatami" type="text/javascript" 
-        src="../../starter.js" 
-        path="../klouds.csv" 
-        title="Espaces de stockages de données"
-        src-img="https://cdn-icons-png.flaticon.com/512/892/892311.png">
+<script id="CallDatami" type="text/javascript" src="../../starter.js"
+        title="Se connaitre et se reconnaitre"
+        descr="Donec ultrices urna dui, sed dapibus odio maximus et. Praesent id condimentum justo, vitae aliquet massa. Proin fringilla vitae nisl in efficitur. Nullam arcu turpis, posuere eu felis et, pharetra pretium risus. Proin imperdiet nisi in dolor tempus vehicula. Morbi nec massa mi. Nam vel vulputate metus. Suspendisse potenti."
+        model="1">
 </script>

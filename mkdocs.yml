@@ -4,6 +4,23 @@
 # Konsilion - Licence juridique Creative Commons CC-BY-NC
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
+# NAVIGATION
+# --------------------------------------------------------------------------------------------------------------------------------------------------
+
+nav:
+
+    - Accueil: index.md
+
+    - Projets: etc/projets/home.md
+
+    - Ressources: etc/ressources/home.md
+    
+    - Stockages: etc/stockages/home.md
+    
+    - Communauté: etc/communaute/home.md
+    
+
+
 
 
 # SITE INFORMATIONS 
@@ -25,8 +42,15 @@ theme:
     palette:
         primary: green
         accent: orange
+        scheme: default
     logo: https://konsilion.fr/wp/wp-content/uploads/2022/08/image-250x300.png
     favicon: https://konsilion.fr/wp/wp-content/uploads/2022/08/image-250x300.png
+    name: material
+    features:
+      - navigation.indexes
+      - navigation.tracking
+
+
 
 # [Liste des couleurs](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color)
 
@@ -42,39 +66,9 @@ copyright: Konsilion - Licence juridique Creative Commons CC-BY-NC 4.0
 
 
 
+# CSS
+# --------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-
-
-
-
-
-
-
-
-
-      
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# ============  /!\ NE PAS MODIFIER /!\ - procedure d'appel du fichier 'env' pour le parametrage  ============
-
-INHERIT: ./docs/env  
+extra_css:
+  - https://konsilion.github.io/katalog-setup/css/katalog.css
+  - https://konsilion.github.io/katalog-setup/css/personnal-datami.css
