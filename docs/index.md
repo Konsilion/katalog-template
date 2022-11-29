@@ -56,12 +56,9 @@ Phasellus pellentesque et mi ac suscipit. Lorem ipsum dolor sit amet, consectetu
 Vivamus varius lacinia ultrices. Proin tristique leo in mi lobortis, vel eleifend enim rutrum. Nulla scelerisque ipsum vitae nibh finibus convallis. 
 Sed aliquet lectus dolor. Quisque nec euismod ligula. Donec iaculis mollis nibh laoreet congue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam euismod mollis dolor, at tincidunt purus porttitor nec. Donec facilisis, risus ac fermentum vulputate, nisi mauris pellentesque massa, ac vulputate libero quam sit amet ipsum.
 
-
----
-
 !!! note ""
 
-   Afin que la compréhension des outils n’interfère pas avec l’acquisition des méthodes.
+    **L’ouverture est le gage** d’une recherche mieux documentée, plus étayée et compilée. 
 
 
 
