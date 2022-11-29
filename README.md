@@ -30,9 +30,11 @@ Les liens suivants y font références et doivent être cliqués depuis ce répe
 
 ## Définir l'identité visuelle de votre plateforme
 
-La plateforme Katalog repose en partie sur le logiciel [Mkdocs-material](https://squidfunk.github.io/mkdocs-material/), ainsi vous pouvez modifier [vos paramètres visuels](../../edit/master/mkdocs.yml) avec le tutoriel et informations données dans la [documentation officielle](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/) de mkdocs.
+La plateforme Katalog repose en partie sur le logiciel [Mkdocs-material](https://squidfunk.github.io/mkdocs-material/).
 
-*si vous souhaitez revenir à la suite sur ces paramètres visuels, vous trouverez au bas de votre page d'accueil un lien 'Paramètrages'*
+Ainsi vous pouvez modifier **[vos paramètres visuels](../../edit/master/mkdocs.yml)**, à l'aide de la [documentation officielle](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/) de mkdocs.
+
+*si vous souhaitez revenir par la suite sur ces **paramètres visuels** de mkdocs, vous trouverez  un lien **Paramètrages** au bas de votre page d'accueil*
 
 
 ---
