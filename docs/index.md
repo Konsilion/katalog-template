@@ -17,11 +17,11 @@ Pour la phase d'installation il vous faut un compte GitHub et c'est tout. Si c'e
 
 * Modification du fichier de configuration : mkdocs.yml
 
-Certains des paramètres de votre plateforme sont configurés à l'aide d'un fichier de configuration YAML. Ce dernier se trouve dans le répertoire du projet et est nommé mkdocs.yml. Il est disponible à l'édition en bas de cette page, nous vous laissons en prendre connaissance et suivre les instructions qui y sont indiquées.
+Certains des paramètres de votre plateforme sont configurés à l'aide d'un fichier de configuration YAML. Ce dernier se trouve dans le répertoire du projet et est nommé mkdocs.yml. Nous vous laissons en prendre connaissance et suivre les instructions qui y sont indiquées. Disponible à l'édition en bas de cette page par un lien de redirection. 
 
 * Modification du fichier de configuration : katalog.json
 
-Phasellus pellentesque et mi ac suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fermentum sagittis tincidunt. Quisque quis velit nec elit euismod finibus et aliquet est. Vestibulum aliquet pulvinar lacus vel ullamcorper. Donec tristique magna ac lorem vulputate, id commodo purus tincidunt. Duis id consequat libero, id venenatis massa. Duis vel semper magna. Fusce felis arcu, ultricies vitae odio at, tempor posuere tortor.
+La technologie Datami est un essentiel de la plateforme Katalog et elle nécessitent une mise au point initiale. Concrètement il faut indiquer dans le fichier konsilion.json la localisation et la clé publique de votre instance Katalog. Le fichier est disponible en bas de cette page par un lien de redirection.
 
 ---
 
