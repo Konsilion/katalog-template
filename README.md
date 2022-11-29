@@ -13,7 +13,9 @@ Avec Katalog, diffusez ou retrouvez tout les savoirs dont vous avez besoin. Ains
 
 **[Cliquer sur ce lien](https://github.com/Konsilion/katalog-template/generate)** et suivre les étapes.
 
-<img src="https://konsilion.fr/wp/wp-content/uploads/2022/11/admonition-readme-1024x249.png" style="max-width: 100px;width: 100%;">
+<div style="max-width: 100px;width: 100%;">
+<img src="https://konsilion.fr/wp/wp-content/uploads/2022/11/admonition-readme-1024x249.png">
+</div>
 
 
 
