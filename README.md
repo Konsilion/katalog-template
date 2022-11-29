@@ -26,7 +26,7 @@ Les liens suivants y font références et doivent être cliqués depuis ce répe
 ---
 
 
-### **Paramètres initiaux** - *Git informations*
+### *Paramètres initiaux - Git informations*
 
 **Etape 1 - Paramètrage de l'application** : Renseigner les informations essentielles de votre plateforme en [cliquant ici](../../edit/master/docs/konsilion.json)
 * **repo** :
@@ -37,9 +37,9 @@ Les liens suivants y font références et doivent être cliqués depuis ce répe
 **Étape 2 - Mise en ligne de l'application** : Afin de publier votre application et la rendre visible, il vous faut renseigner les informations de la [rubrique Gh-Pages](../../settings/pages)
 
 
-### **Paramètrages visuels** - *Mkdocs information*
+### *Paramètrages visuels - Mkdocs information*
 
-**Étape 1 - Définir vos paramètres mkdocs** : vous pouvez modifier **[vos paramètres visuels](../../edit/master/mkdocs.yml)**, à l'aide de la [documentation officielle](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/) de mkdocs.
+**Définir vos paramètres mkdocs** : vous pouvez modifier **[vos paramètres visuels](../../edit/master/mkdocs.yml)**, à l'aide de la [documentation officielle](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/) de mkdocs.
 
 *si vous souhaitez revenir par la suite sur ces **paramètres visuels** de mkdocs, vous trouverez  un lien **Paramètrages** au bas de votre page d'accueil*
 
