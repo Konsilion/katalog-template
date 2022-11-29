@@ -29,7 +29,9 @@ La technologie Datami est un  essentiel de la plateforme Katalog et elle nécess
 
 ## Mise en ligne 🌍
 
-Phasellus pellentesque et mi ac suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fermentum sagittis tincidunt. Quisque quis velit nec elit euismod finibus et aliquet est. 
+Vous êtes fin prêt à déployer votre plateforme et de la rendre accesible à toutes et tous. Ainsi nous vous invitons à suivre ce lien et de vous laissez guider par l'image ci-contre.
+
+
 
 ---
 
