@@ -28,11 +28,11 @@ Les liens suivants y font références et doivent être cliqués depuis ce répe
 * **Étape 2 - Mise en ligne de l'application** : Afin de publier votre application et la rendre visible, il vous faut renseigner les informations de la [rubrique Gh-Pages](../../settings/pages)
 
 
-## Définir l'identité visuelle de votre plateforme
+## Paramètrages visuels - Mkdocs information
 
 La plateforme Katalog repose en partie sur le logiciel [Mkdocs-material](https://squidfunk.github.io/mkdocs-material/).
 
-Ainsi vous pouvez modifier **[vos paramètres visuels](../../edit/master/mkdocs.yml)**, à l'aide de la [documentation officielle](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/) de mkdocs.
+* **Étape 1 - Définir vos paramètres mkdocs** : vous pouvez modifier **[vos paramètres visuels](../../edit/master/mkdocs.yml)**, à l'aide de la [documentation officielle](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/) de mkdocs.
 
 *si vous souhaitez revenir par la suite sur ces **paramètres visuels** de mkdocs, vous trouverez  un lien **Paramètrages** au bas de votre page d'accueil*
 
