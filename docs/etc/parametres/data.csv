@@ -1,6 +1,12 @@
 NOM DE LA RESSOURCE;DESCRIPTION;LIEN;IDs - FILTRES;IMAGE;AUTEUR.ICES
-Lien vers la racine du projet;Doit amener à la racine du répertoire hebergeant l'instance Katalog - Cliente.;#;Paramètres;;Konsilion
-Fichier mkdocs.yml;Modifier le fichier de paramètrage mkdocs.;../;Paramètres;;Konsilion
-Fichier konsilion.json;Modifier le fichier de paramètrage katalog.;../;Paramètres;;Konsilion
-Modifier la page d'accueil;Une petite introduction de qui vous êtes 😉. (language markdown);../;Paramètres;;Konsilion
-Modifier la page d'informations;Si l'on souhaite vous rencontrer ou en savoir plus tout simplement :) (language markdown);../;Paramètres;;Konsilion
+Lien vers la racine du projet;Doit amener à la racine du répertoire hebergeant l'instance Katalog - Cliente.;#;Installation;;Konsilion
+Fichier mkdocs.yml;Modifier le fichier de paramètrage mkdocs.;#;Installation;;Konsilion
+Fichier konsilion.json;Modifier le fichier de paramètrage katalog.;#;Installation;;Konsilion
+Modifier la page d'accueil;Une petite introduction de qui vous êtes 😉. (language markdown);#;Installation;;Konsilion
+Modifier la page d'information;Si l'on souhaite vous rencontrer ou en savoir plus tout simplement :) (language markdown);#;Installation;;Konsilion
+Présentation vidéo;;#;Premiers Pas;;Konsilion
+Logique générale;;#;Premiers Pas;;Konsilion
+Premier cas pratique;;#;Premiers Pas;;Konsilion
+Changer le token - Git;;#;Maintenance;;Konsilion
+Ajouter ou modifier une nouvelle section;;#;Maintenance;;Konsilion
+Guide du 'débogage';;#;Maintenance;;Konsilion
