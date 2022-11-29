@@ -2,7 +2,10 @@
 
 Rendre accessibles les résultats de la recherche en partageant autant que possible les données et les méthodes, voici l'**enjeu de la science ouverte** et des plateformes Katalog. 
 
-L’**ouverture est le gage** d’une recherche mieux documentée, plus étayée et compilée. 
+!!! note ""
+
+    L’**ouverture est le gage** d’une recherche mieux documentée, plus étayée et compilée. 
+
 
 ### Installation 👌
 
@@ -51,9 +54,6 @@ Sed aliquet lectus dolor. Quisque nec euismod ligula. Donec iaculis mollis nibh 
 
 
 
----
-
-![image](https://user-images.githubusercontent.com/99027754/204546163-a8041af7-78c5-4e6d-931e-d9f7e3bf23bc.png)
 
 
 
