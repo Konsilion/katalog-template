@@ -5,11 +5,11 @@
 ---
 
 
-## Échanges et prises de notes
+## Choisir
 
-??? example "Les réunions mensuelles"
+??? tip "Comment définir ma licence ouverte ?"
 
-    * Vous pouvez accéder au compte rendu de [Octobre 2022 à Mars 2023](https://konsilion.fr/pads/ExempleDePad)
+    <iframe src="https://pad.lescommuns.org/s/choix_licence_ouverte" width="100%" height="800" frameborder="0"></iframe>
 
 ---
 
