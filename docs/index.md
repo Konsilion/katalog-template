@@ -13,6 +13,16 @@ Pour la phase d'installation il vous faut un compte GitHub et c'est tout. Si c'e
 
 ---
 
+## Mise en ligne 🌍
+
+Vous êtes fin prêt à déployer votre propre plateforme et de la rendre accesible à toutes et tous. Ainsi nous vous invitons à composer et suivre le lien suivant et de vous laissez guider par l'image ci-contre.
+
+L'url composé est : https://github.com/**<nom-utilisateur>**/**<nom-repertoire>**/settings/pages
+
+![image](https://konsilion.fr/wp/wp-content/uploads/2022/11/gh-pages-1024x761.png)
+
+---
+
 ## Paramètres techniques et visuels 🔏
 
 * Modification du fichier de configuration : mkdocs.yml
@@ -27,14 +37,6 @@ Certains des **paramètres de votre plateforme** sont configurés à l'aide d'un
 La **technologie Datami est un  essentiel** de la plateforme Katalog et elle nécessitent une **mise au point initiale**. Concrètement il faut indiquer dans le fichier konsilion.json la **localisation et la clé publique** de votre instance Katalog. 
 
 👉 *Le fichier est disponible en bas de cette page par le biais d'un lien de redirection.*
-
----
-
-## Mise en ligne 🌍
-
-Vous êtes fin prêt à déployer votre plateforme et de la rendre accesible à toutes et tous. Ainsi nous vous invitons à suivre ce lien et de vous laissez guider par l'image ci-contre.
-
-![image](https://konsilion.fr/wp/wp-content/uploads/2022/11/gh-pages-1024x761.png)
 
 ---
 
