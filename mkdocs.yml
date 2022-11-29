@@ -4,6 +4,8 @@
 # Konsilion - Licence juridique Creative Commons CC-BY-NC
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+
 # NAVIGATION
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -15,13 +17,12 @@ nav:
 
     - Ressources: etc/ressources/home.md
     
-    - Stockages: etc/stockages/home.md
+    - Espaces de stockages: etc/stockages/home.md
     
     - Partenaires: etc/communaute/home.md
     
     - Contacts: informations.md
     
-
 
 
 
@@ -35,8 +36,9 @@ site_description: Une plateforme de science ouverte et open-data, pour la Low-te
 
 
 
-
 # LANGUE, COULEURS et LOGO
+#
+# [Liste des couleurs](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color)
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
 theme:
@@ -54,10 +56,6 @@ theme:
 
 
 
-# [Liste des couleurs](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color)
-
-
-
 
 
 # MENTIONS 
@@ -68,7 +66,9 @@ copyright: Konsilion - Licence juridique Creative Commons CC-BY-NC 4.0
 
 
 
-# CSS
-# --------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+
+# AUTRES PARAMETRES - Ne pas modifier
+# --------------------------------------------------------------------------------------------------------------------------------------------------
 plugins: []
