@@ -49,11 +49,6 @@ In placerat suscipit ante, sed commodo arcu congue non. Donec nec iaculis odio. 
 
 
 
-!!! note ""
-
-    Afin que la compréhension des outils, n'interfère pas avec l'acquisition des méthodes. 
-
-
 ### La logique de modération impliquée
 
  Donec tristique magna ac lorem vulputate, id commodo purus tincidunt. Duis id consequat libero, id venenatis massa. Duis vel semper magna. Fusce felis arcu, ultricies vitae odio at, tempor posuere tortor.
@@ -61,7 +56,9 @@ In placerat suscipit ante, sed commodo arcu congue non. Donec nec iaculis odio. 
 Sed aliquet lectus dolor. Quisque nec euismod ligula. Donec iaculis mollis nibh laoreet congue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam euismod mollis dolor, at tincidunt purus porttitor nec. Donec facilisis, risus ac fermentum vulputate, nisi mauris pellentesque massa, ac vulputate libero quam sit amet ipsum.
 
 
+---
 
+![image](https://user-images.githubusercontent.com/99027754/204560024-0c64f819-5d9c-4181-bd3d-7e0700bc7480.png)
 
 ---
 
