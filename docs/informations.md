@@ -29,4 +29,5 @@
 
 
 ---
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/index.js"></script>
+
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/mkdocs.js"></script>
