@@ -1,2 +1,6 @@
 NOM DE LA RESSOURCE;DESCRIPTION;LIEN;IDs - FILTRES;IMAGE;AUTEUR.ICES
-Lien vers la racine du projet;Doit amener à la racine du répertoire hebergeant l'instance Katalog - Cliente.;../;logiciel,github;;Konsilion
+Lien vers la racine du projet;Doit amener à la racine du répertoire hebergeant l'instance Katalog - Cliente.;#;Paramètres;;Konsilion
+Fichier mkdocs.yml;Modifier le fichier de paramètrage mkdocs.;../;Paramètres;;Konsilion
+Fichier konsilion.json;Modifier le fichier de paramètrage katalog.;../;Paramètres;;Konsilion
+Modifier la page d'accueil;Une petite introduction de qui vous êtes 😉. (language markdown);../;Paramètres;;Konsilion
+Modifier la page d'informations;Si l'on souhaite vous rencontrer ou en savoir plus tout simplement :) (language markdown);../;Paramètres;;Konsilion
