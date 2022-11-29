@@ -16,6 +16,7 @@ L’ouverture est le gage d’une recherche mieux documentée, plus étayée et 
 
 (en cours)
 
+![image](https://user-images.githubusercontent.com/99027754/204546163-a8041af7-78c5-4e6d-931e-d9f7e3bf23bc.png)
 
 
 
