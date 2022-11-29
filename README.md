@@ -19,11 +19,14 @@ Les liens suivants y font références et doivent être cliqués depuis ce répe
 
 
 
-## Paramètrage initial - Git informations 
+## Paramètrages
 
 📌 Vous êtes bien sur **votre répertoire fraichement créé** ? 👌
 
 ---
+
+
+### Paramètres initiaux - Git informations
 
 * **Etape 1 - Paramètrage de l'application** : Renseigner les informations essentielles de votre plateforme en [cliquant ici](../../edit/master/docs/konsilion.json)
   * **repo** :
@@ -34,13 +37,7 @@ Les liens suivants y font références et doivent être cliqués depuis ce répe
 * **Étape 2 - Mise en ligne de l'application** : Afin de publier votre application et la rendre visible, il vous faut renseigner les informations de la [rubrique Gh-Pages](../../settings/pages)
 
 
-## Paramètrages visuels - Mkdocs information
-
-📌 Vous êtes bien sur **votre répertoire fraichement créé** ? 👌
-
----
-
-La plateforme Katalog repose en partie sur le logiciel [Mkdocs-material](https://squidfunk.github.io/mkdocs-material/).
+### Paramètrages visuels - Mkdocs information
 
 * **Étape 1 - Définir vos paramètres mkdocs** : vous pouvez modifier **[vos paramètres visuels](../../edit/master/mkdocs.yml)**, à l'aide de la [documentation officielle](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/) de mkdocs.
 
