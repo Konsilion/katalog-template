@@ -37,12 +37,10 @@ Phasellus pellentesque et mi ac suscipit. Lorem ipsum dolor sit amet, consectetu
 In placerat suscipit ante, sed commodo arcu congue non. Donec nec iaculis odio. Pellentesque maximus imperdiet ex sed hendrerit. Sed tempus metus nisl, et vulputate enim tristique sit amet.
 
 ???+ note "Logique générale"
-
    Nam hendrerit, arcu quis congue maximus, ex libero vestibulum nunc, ut viverra libero arcu in nunc. Duis tempus convallis neque non auctor. Cras in tincidunt tellus, in volutpat mi.  Ut pharetra mi nec placerat euismod. Aliquam sollicitudin justo consequat, fringilla magna eget, porta velit. Sed aliquet lectus dolor. Quisque nec euismod ligula. Donec iaculis mollis nibh laoreet congue. Faucibus orci luctus et ultrices posuere cubilia curae.  Vivamus varius lacinia ultrices. Proin tristique leo in mi lobortis, vel eleifend enim rutrum. Nulla scelerisque ipsum vitae nibh finibus convallis. Aliquam euismod mollis dolor, at tincidunt purus porttitor nec. Donec facilisis, risus ac fermentum vulputate, nisi mauris pellentesque massa, ac vulputate libero quam sit amet ipsum.
 
 
 ??? note "À propos des technologies supports - *Mkdocs & Datami*"
-
    * Mkdocs (material): Phasellus pellentesque et mi ac suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fermentum sagittis tincidunt. Quisque quis velit nec elit euismod finibus et aliquet est. Vestibulum aliquet pulvinar lacus vel ullamcorper. Donec tristique magna ac lorem vulputate, id commodo purus tincidunt. Duis id consequat libero, id venenatis massa. Duis vel semper magna. Fusce felis arcu, ultricies vitae odio at, tempor posuere tortor.
    * Datami: Vivamus varius lacinia ultrices. Proin tristique leo in mi lobortis, vel eleifend enim rutrum. Nulla scelerisque ipsum vitae nibh finibus convallis. 
    Sed aliquet lectus dolor. Quisque nec euismod ligula. Donec iaculis mollis nibh laoreet congue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam euismod mollis dolor, at tincidunt purus porttitor nec. Donec facilisis, risus ac fermentum vulputate, nisi mauris pellentesque massa, ac vulputate libero quam sit amet ipsum.
