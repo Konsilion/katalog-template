@@ -32,6 +32,7 @@ Les liens suivants y font références et doivent être cliqués depuis ce répe
 
 * **Étape 2 - Mise en ligne de l'application** : Afin de publier votre application et la rendre visible, il vous faut renseigner les informations de la [rubrique Gh-Pages](../../settings/pages)
 
+---
 
 ## Paramètrages visuels - Mkdocs information
 
