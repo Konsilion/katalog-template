@@ -15,40 +15,22 @@ Avec Katalog, diffusez ou retrouvez tout les savoirs dont vous avez besoin. Ains
 
 ---
 
-* **Etape 1 - Paramètrage de l'application** : Renseigner les informations essentielles de votre plateforme en [cliquant ici](../../edit/master/docs/param.json)
 
-* **Étape 2 - Mise en ligne de l'application** : Afin de publier votre application et la rendre visible il vous faut renseigner les informations de la [rubrique Gh-Pages](../../settings/pages)
+## Paramètrage initial - Git informations : 
 
-* **Étape 3 - Affiliation à votre nom de domaine *(optionnel)* :** Après avoir ajoutez GitHub à vos enregistrements DNS de votre nom de domaine ([voir tutoriel](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)), vous devez [créer un fichier CNAME](../../new/master/docs) en indiquant le domaine ou sous-domaine que vous avez choisi.
+* **Etape 1 - Paramètrage de l'application** : Renseigner les informations essentielles de votre plateforme en [cliquant ici](../../edit/master/docs/konsilion.json)
+  * L'information **repo** correspond à l'url de votre répertoir git crée à l'étape d'installation (exemple : https://github.com/nbrem/katalog)
+  * Le token est la clé d'accès universel afin de permettre à tout un chacun de participer au sein de votre plateforme. [Lien vers la création d'un Token](https://github.com/settings/tokens/new)
 
-
-## Créer votre utilisateur universel
-
----
-
-:innocent: *Afin de maitriser vos données et de sécuriser votre plateforme*
-
----
-
-[Lien vers la création d'un Token](https://github.com/settings/tokens/new)
-
-(en cours de rédaction)
+* **Étape 2 - Mise en ligne de l'application** : Afin de publier votre application et la rendre visible, il vous faut renseigner les informations de la [rubrique Gh-Pages](../../settings/pages)
 
 
-## Modération et sécurité
+## Définir l'identité visuelle de votre plateforme
 
----
+La plateforme Katalog repose en partie sur le logiciel [Mkdocs-material](https://squidfunk.github.io/mkdocs-material/), ainsi vous pouvez modifier [vos paramètres visuels](../../edit/master/mkdocs.yml) avec le tutoriel et informations données dans la [documentation officielle](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/) de mkdocs.
 
-:lock: *Afin de maitriser vos données et de sécuriser votre plateforme*
+*si vous souhaitez revenir à la suite sur ces paramètres visuels, vous trouverez au bas de votre page d'accueil un lien 'Paramètrages'*
 
----
-
-(en cours de rédaction)
-
-## Documentation et ressources :open_file_folder:
-
-* Reporter une erreur : [Y accèder](https://github.com/Konsilion/katalog-template/issues)
-* Site web de Konsilion : [Y accèder](https://konsilion.fr)
 
 ---
 
