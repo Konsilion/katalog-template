@@ -4,15 +4,18 @@
 
 Avec Katalog, diffusez ou retrouvez tout les savoirs dont vous avez besoin. Ainsi accessible en base de données distribuées, les connaissances se propagent sans limites.
 
----
-
-:red_circle: *Après l'étape d'installation ==> Reprendre la lecture de ce document depuis votre répertoire. Les liens suivants y font références et doivent être cliqués depuis ce répertoire* 😉
-
----
-
 ## Installation : 
 
 **[Cliquer sur ce lien](https://github.com/Konsilion/katalog-template/generate)** et suivre les étapes.
+
+
+
+👉 Reprendre la lecture de ce document depuis votre répertoire fraichement créé. 
+
+Les liens suivants y font références et doivent être cliqués depuis ce répertoire 😉
+
+---
+
 
 ## Paramètrage initial - Git informations 
 
