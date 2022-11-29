@@ -8,6 +8,10 @@ Avec Katalog, diffusez ou retrouvez tout les savoirs dont vous avez besoin. Ains
 
 **[Cliquer sur ce lien](https://github.com/Konsilion/katalog-template/generate)** et suivre les étapes.
 
+
+![](https://konsilion.fr/wp/wp-content/uploads/2022/11/exemple-katalog-1024x544.png)
+
+
 👉 Reprendre la lecture de ce document depuis **votre répertoire fraichement créé**. 
 
 Les liens suivants y font références et doivent être cliqués depuis ce répertoire 😉
