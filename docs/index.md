@@ -2,32 +2,28 @@
 
 Rendre accessibles les résultats de la recherche en partageant autant que possible les données et les méthodes, voici l'**enjeu de la science ouverte** et des plateformes Katalog. 
 
-L’**ouverture est le gage** d’une recherche mieux documentée, plus étayée et compilée. 👌
+L’**ouverture est le gage** d’une recherche mieux documentée, plus étayée et compilée. 
 
-## Paramètrage et identité visuelle de votre Katalog
-
-Fusce felis arcu, ultricies vitae odio at, tempor posuere tortor. Cras vel fringilla velit. Morbi ac lectus consequat justo efficitur accumsan. Aliquam at posuere justo, quis tempus arcu. Nam sed libero vestibulum ipsum tincidunt pellentesque.
-
-### Installation
+### Installation 👌
 
 Phasellus pellentesque et mi ac suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fermentum sagittis tincidunt. Quisque quis velit nec elit euismod finibus et aliquet est. Vestibulum aliquet pulvinar lacus vel ullamcorper. Donec tristique magna ac lorem vulputate, id commodo purus tincidunt. Duis id consequat libero, id venenatis massa. Duis vel semper magna. Fusce felis arcu, ultricies vitae odio at, tempor posuere tortor.
 
-### Paramètres techniques et visuels
+### Paramètres techniques et visuels ⚙
 
 * Modification du fichier de configuration : mkdocs.yml
-* 
+
 Phasellus pellentesque et mi ac suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fermentum sagittis tincidunt. Quisque quis velit nec elit euismod finibus et aliquet est. Vestibulum aliquet pulvinar lacus vel ullamcorper. Donec tristique magna ac lorem vulputate, id commodo purus tincidunt. Duis id consequat libero, id venenatis massa. Duis vel semper magna. Fusce felis arcu, ultricies vitae odio at, tempor posuere tortor.
 
 * Modification du fichier de configuration : katalog.json
-* 
+
 Phasellus pellentesque et mi ac suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fermentum sagittis tincidunt. Quisque quis velit nec elit euismod finibus et aliquet est. Vestibulum aliquet pulvinar lacus vel ullamcorper. Donec tristique magna ac lorem vulputate, id commodo purus tincidunt. Duis id consequat libero, id venenatis massa. Duis vel semper magna. Fusce felis arcu, ultricies vitae odio at, tempor posuere tortor.
 
 
-## Mise en ligne
+## Mise en ligne 👁
 
 Phasellus pellentesque et mi ac suscipit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fermentum sagittis tincidunt. Quisque quis velit nec elit euismod finibus et aliquet est. 
 
-## Prise en main de la plateforme
+## Prise en main de la plateforme 📖
 
 In placerat suscipit ante, sed commodo arcu congue non. Donec nec iaculis odio. Pellentesque maximus imperdiet ex sed hendrerit. Sed tempus metus nisl, et vulputate enim tristique sit amet.
 
