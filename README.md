@@ -21,7 +21,6 @@ Les liens suivants y font références et doivent être cliqués depuis ce répe
 
 📌 Vous êtes bien sur **votre répertoire fraichement créé** ? 👌
 
----
 
 ## Paramètrage initial - Git informations 
 
