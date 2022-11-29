@@ -72,3 +72,8 @@ copyright: Konsilion - Licence juridique Creative Commons CC-BY-NC 4.0
 # AUTRES PARAMETRES - Ne pas modifier
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 plugins: []
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
