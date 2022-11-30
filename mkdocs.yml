@@ -29,7 +29,7 @@ nav:
 # SITE INFORMATIONS 
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
-site_name: Picojoules - Plateforme de ressources ouvertes
+site_name: Konsilion - Plateforme de ressources ouvertes
 site_author: Nicolas Brémond
 site_description: Une plateforme de science ouverte et open-data, pour la Low-technologie.
 
@@ -44,8 +44,8 @@ site_description: Une plateforme de science ouverte et open-data, pour la Low-te
 theme:
     language: fr
     palette:
-        primary: green
-        accent: blue
+        primary: blue
+        accent: green
         scheme: default
     logo: https://konsilion.fr/wp/wp-content/uploads/2022/08/image-250x300.png
     favicon: https://konsilion.fr/wp/wp-content/uploads/2022/08/image-250x300.png
