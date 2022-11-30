@@ -64,4 +64,4 @@ Toujours dans les paramètres, vous pouvez sélectionner la catégorie 'Prise en
 ---
 
 
-<script type="text/javascript" src="../index.js"></script>
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/index.js"></script>
