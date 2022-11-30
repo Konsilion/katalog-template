@@ -44,8 +44,8 @@ site_description: Une plateforme de science ouverte et open-data, pour la Low-te
 theme:
     language: fr
     palette:
-        primary: blue
-        accent: green
+        primary: green
+        accent: blue
         scheme: default
     logo: https://konsilion.fr/wp/wp-content/uploads/2022/08/image-250x300.png
     favicon: https://konsilion.fr/wp/wp-content/uploads/2022/08/image-250x300.png
