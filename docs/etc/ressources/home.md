@@ -1,7 +1,8 @@
 <div id="DatamiGrid"></div>
 
 <script id="CallDatami" type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/starter.js"
-        title="Toutes les ressources ouvertes"
-        descr="Donec ultrices urna dui, sed dapibus odio maximus et. Praesent id condimentum justo, vitae aliquet massa. Proin fringilla vitae nisl in efficitur. Nullam arcu turpis, posuere eu felis et, pharetra pretium risus."
-        model="1">
+        title="Toutes les ressources"
+        descr="Toutes les ressources qui nous ont été très utiles durant notre parcours de recherche, et que nous tenions absolument à partager avec vous."
+        model="1"
+        cardview="false">
 </script>

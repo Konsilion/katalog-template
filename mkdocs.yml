@@ -45,7 +45,7 @@ theme:
     language: fr
     palette:
         primary: blue
-        accent: blue
+        accent: green
         scheme: default
     logo: https://konsilion.fr/wp/wp-content/uploads/2022/08/image-250x300.png
     favicon: https://konsilion.fr/wp/wp-content/uploads/2022/08/image-250x300.png
