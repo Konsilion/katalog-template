@@ -11,14 +11,14 @@
 
 nav:
 
-    - Accueil: index.md
+    - Présentation: index.md
 
-    - Projets & Tâches: etc/projets/home.md
+    - Projets : etc/projets/home.md
 
-    - Ressources: etc/ressources/home.md
-    
+    - Ressources: etc/ressources/home.md    
+
     - Dépôts de données: etc/stockages/home.md
-    
+
     - Partenaires: etc/communaute/home.md
     
     - Contacts: informations.md
