@@ -1,9 +1,9 @@
 {
     "informations": {
-        "name":"Konsilion",
+        "name":"Konsilion - Tâches et évenements",
         "descr": "Praesent dignissim quis orci in mattis. Nullam vitae magna dignissim, dictum est id, mollis nibh. Curabitur consectetur, neque id rutrum viverra, quam purus viverra erat, eget dapibus ante mauris id sapien.",
-        "model": "3",
-        "cardview": "false"
+        "model": "1",
+        "cardview": "true"
     },
     "external": {        
     }
