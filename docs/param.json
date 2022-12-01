@@ -1,9 +1,0 @@
-{"informations": [
-        {
-            "name": "Bienvenue sur votre plateforme Katalog", 
-            "description": "Vous pouvez modifier certains paramètres de votre plateforme tels que le titre, la couleur, ou encore ce texte. Pour cela nous vous invitons à suivre le tutoriel présenté dans le répertoire de l'applications (voir ci-dessous dans 'Paramètrer la plateforme').",
-            "logo": "https://konsilion.fr/wp/wp-content/uploads/2022/03/Logo_Konsilion_1.png",
-            "link": "https://github.com/Konsilion/katalog-template/",
-            "token": "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"
-        }
-]}
