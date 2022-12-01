@@ -1,0 +1,22 @@
+{
+    "informations": {
+        "name":"Konsilion",
+        "descr": "Praesent dignissim quis orci in mattis. Nullam vitae magna dignissim, dictum est id, mollis nibh. Curabitur consectetur, neque id rutrum viverra, quam purus viverra erat, eget dapibus ante mauris id sapien.",
+        "model": "2",
+        "cardview": "true"
+    },
+    "external": {
+        "Picojoule": {
+            "descr": "Etiam blandit leo rutrum ante pharetra laoreet. Nulla convallis vestibulum urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent nunc magna, tincidunt eu dictum nec, eleifend non metus. Ut facilisis nisl magna, ac commodo ipsum gravida quis.",
+            "url": "https://github.com/Konsilion/katalog-template/blob/master/docs/etc/communaute/data.csv",
+            "token": "",
+            "activate": "true"
+        },
+        "Lowtech-Lab": {
+            "descr": "Quisque porta eget enim vehicula facilisis. Etiam neque enim, malesuada in enim et, aliquet volutpat metus. Proin quis scelerisque justo, et feugiat orci. Mauris a nibh sed dui auctor volutpat ac sed dui.",
+            "url": "https://github.com/Konsilion/katalog-template/blob/master/docs/etc/communaute/data.csv",
+            "token": "",
+            "activate": "true"
+        }
+    }
+}

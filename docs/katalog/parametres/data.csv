@@ -1,0 +1,13 @@
+NOM DE LA RESSOURCE;DESCRIPTION;LIEN;IDs - FILTRES;IMAGE;AUTEUR.ICES
+Présentation vidéo;;#;Premiers Pas;;Konsilion
+Fichier konsilion.json;Modifier le fichier de paramètrage katalog.;#;Installation;;Konsilion
+Fichier mkdocs.yml;Modifier le fichier de paramètrage mkdocs.;#;Installation;;Konsilion
+Mise en ligne;;#;Installation;;Konsilion
+Répertoire support Git;Doit amener à la racine du répertoire hebergeant l'instance Katalog - Cliente.;../;Installation,Utilisation;;Konsilion
+Modifier la page d'accueil;Une petite introduction de qui vous êtes 😉. (language markdown);#;Installation;;Konsilion
+Modifier la page d'information;Si l'on souhaite vous rencontrer ou en savoir plus tout simplement :) (language markdown);#;Installation;;Konsilion
+Logique générale;;#;Premiers Pas;;Konsilion
+Premier cas pratique;;#;Premiers Pas;;Konsilion
+Changer le token - Git;;#;Utilisation;;Konsilion
+Ajouter ou modifier une nouvelle section;;#;Utilisation;;Konsilion
+Guide du 'débogage';;#;Utilisation;;Konsilion

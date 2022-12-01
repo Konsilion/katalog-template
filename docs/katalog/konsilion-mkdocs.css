@@ -1,0 +1,152 @@
+/* ======= BODY WITH FULL WIDTH & HEIGTH ======= */
+
+.md-main__inner { 
+    max-width: 100%;
+    padding: 0px;
+    margin: 0px;
+} 
+
+.md-grid { 
+    max-width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+/* ======= CONTENT WITH LIGHT BASE MOBILE PADDING ======= */
+
+    .md-content {
+        padding: 25px 50px;
+    }
+
+    @media only screen and (max-width: 1219px) {
+        .md-content {
+            padding: 25px 10px;
+        }
+    }
+
+
+
+/* ======= BARRE DE COULEUR HAUTE ======= */
+
+.md-header {
+    height: 30px;
+}
+
+.md-header__button.md-icon > * {
+    padding: 0px;
+    margin: 0px;
+}
+
+.md-header__button.md-logo {
+    display:none;
+}
+
+.md-header__topic {
+    display: none;
+}
+
+
+
+
+/* ======= NAVIGATIONS, TOC, PREV-NEXT ======= */
+
+
+.md-sidebar__inner {
+    padding: 0px !important;
+}
+
+
+    /* ======= NAVIGATION ======= */
+
+
+    .md-sidebar--primary {
+        left: 0; 
+    } 
+
+    .md-nav__link.md-nav__link--active::after {
+        content: ">";
+    }
+
+        /* ------ CORRECTION DATAMI BUG */
+
+        .md-nav__link {
+            color: rgba(125,125,125,1) ;
+            font-size:17px;
+        }   
+
+
+        /* ------ GRAND ECRAN */
+
+        @media only screen and (min-width: 1220px) {
+
+            .md-sidebar {
+                max-width: 300px;
+                width: 20%;
+                min-width: 200px;
+                padding: 0px !important;
+            }
+
+            .md-nav__title {
+                background-color: rgba(0,0,0,0);
+                box-shadow: 0 0 0 0 rgba(0,0,0,0);    
+                font-size: 18px;
+                color: #666;
+                line-height:20px;
+                padding-bottom: 25px;    
+                margin: 40px auto 25px auto;
+                border-bottom: 1px solid #DDD;
+            }
+
+            .md-sidebar > * {
+                background-color: rgba(250,250,250,1) !important;        
+                padding-left: 10px;
+                margin: 0;
+                box-shadow: 5px 0px 8px rgba(0,0,0,0.1);
+            }
+
+            .md-nav__item.md-nav__item--active {
+                padding: 0px 0 0 10px;
+                color: black;
+                font-weight: bold;        
+            }    
+
+            .md-nav__item.md-nav__item--active > a {
+                margin: 10px 0px;
+                padding: 10px;
+                background-color: white;
+                border-width: 1px 0px 1px 1px;
+                border-style: solid;
+                border-color : var(--md-primary-fg-color);
+                border-radius: 10px 0px 0px 10px;
+            }
+        }   
+
+
+    /* ======= TOC ======= */
+    
+        .md-sidebar.md-sidebar--secondary {
+            display: none;
+        }
+
+
+    /* ======= PREV-NEXT ======= */
+
+        .md-footer__inner.md-grid {
+            display:none !important;
+        }
+
+
+
+/* ======= OVERWRITE COLOR MKDOCS - Deactivate ======= */
+
+/*
+:root > * {
+	--color-back-form: rgba(245, 245, 245, 0.9);
+	--color-button: #1FAA1F;
+	--md-primary-fg-color: #2B8DCE !important;
+	--md-primary-fg-color-light: rgba(19,96,149,0.2) !important;
+	--md-primary-fg-color--dark: #505050;
+}
+*/

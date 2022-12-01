@@ -1,0 +1,209 @@
+/* ======= BODY WITH FULL WIDTH & HEIGTH ======= */
+
+    .section {
+        padding: 0px;
+    }
+
+    .container {
+        max-width: 100% !important;
+    }
+
+
+    .columns.is-mobile>.column.is-10 {
+        /* permet une pleine largeur des cards*/
+        flex: 1;
+    }
+    
+
+
+
+
+
+/* ======= ELEMENTS PRINCIPAUX ======= */
+
+    .datami-widget {
+        background-color: rgb(0,0,0,0) !important;
+    }
+
+    .upper-container {
+          margin-bottom: 20px;  
+          border-width: 0px 0px 4px 0px;
+          border-style: solid;
+          border-image: linear-gradient(to right, #EEE, white) 0.5;    
+    }
+
+  
+
+
+
+
+/* ======= PETITS ICONs ======= */
+
+    .mdi {
+        font-size:18px;
+        color: var(--md-primary-fg-color--light);
+    }
+    
+    .mdi-close {
+        color: red;
+    }
+
+
+
+
+
+/* ======= BUTTON ELEMENTS ======= */
+
+
+    .button.outlink {
+        width: 100%;
+    }
+
+    .button.is-small:not(.is-rounded){
+        border-radius: 25px;
+    }
+
+    .button.is-dark.is-outlined {
+        border-color: #DDD;
+    }
+
+    .is-dark.input {
+        border-color: #DDD;
+    }
+  
+    .navbar-link.is-arrowless {
+        /*act on filters button radius*/
+        border-radius: 25px;
+    }
+
+
+
+
+/* ======= CARD GRID DISPLAY ======= */
+
+
+    .column.is-4, .column.is-4-tablet {
+        -webkit-box-flex: 0;
+        -ms-flex: none;
+        flex: none;
+        width: 100%;
+    }
+
+
+    @media only screen and (min-width: 769px) and (max-width: 1199px) {
+        .column.is-4, .column.is-4-tablet {
+            width: 50%;
+        }
+    }
+
+    
+    @media only screen and (min-width: 1200px) and (max-width: 1450px) {
+        .column.is-4, .column.is-4-tablet {
+            width: 33.33333337%;
+        }
+    }
+    
+    
+    @media only screen and (min-width: 1451px) {
+        .column.is-4, .column.is-4-tablet {
+            width: 25%;
+        }
+    }
+
+ 
+
+
+
+
+/* ======= BUTTON FUNCTION - 'USEFUL' ======= */
+
+    .ButtonDarkMode, .ButtonChangeUserBranch, .ButtonFullscreen, .ButtonChangeLocale  {
+        display: none;
+    } 
+
+
+
+
+
+
+
+/* ======= CARD ELEMENTS ======= */
+
+
+    /* ======= ALL CARDs ======= */
+
+        .card {
+            background-color: white !important;
+            border-radius: 20px;
+            box-shadow: 0 0em 1em -.125em hsla(0,0%,4%,.1), 0 0 0 1px hsla(0,0%,4%,.02);
+        }
+
+        .card:hover {
+            box-shadow: 0 14px 28px rgb(0 0 0 / 5%), 0px 0px 10px var(--md-primary-fg-color--light);
+        }
+
+        .card-header {
+            padding-bottom: 12px;
+        }
+
+        .card-header-icon > div > div > span > .mdi-eye {
+            color: white;
+        }
+
+        .card-content {
+            padding: 15px;
+
+        }
+
+        .card-footer {
+            border-top: 0px; 
+        }
+    
+    /* ======= DatamiCard(s)... ======= */
+
+    
+        .DatamiCardsGrid {
+            margin-top:25px;
+        }
+
+        .DatamiCardBlockImage {
+            justify-content: center !important;
+            text-align: center !important;
+            max-height: 150px;
+            border-top: 1px solid #DDD;
+            border-bottom: 1px solid #DDD;
+            overflow: hidden;
+            background-color: #f9f9f9;
+        }
+
+        .DatamiCardBlockImage > figure > img {
+            margin: 10px auto;
+            object-fit: cover;
+            display: block;
+            width: 80%;
+            max-height: 130px;
+        }
+
+        .DatamiCardBlockTags {
+            padding-top:25px;
+
+        }
+
+
+    /* ======= Other Elements : Class as 'IDs' ======= */
+
+        .DatamiGrid {
+            padding: 0px;
+        }
+
+
+        .PreviewCsv {
+            margin-top:40px;
+        }
+
+
+
+        .CustomFilterDropdown {
+           border: 1px solid #DDD;
+           border-radius: 25px;
+        }

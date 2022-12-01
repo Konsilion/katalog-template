@@ -1,0 +1,35 @@
+{"ekosystems": [
+
+        {
+            "name": "SemApps - Archipel", 
+            "description": "", 
+            "auteur": "Assemblée virtuelle & Glocal Low-tech",
+            "link": "https://semapps.gl.assemblee-virtuelle.org/",
+            "image": "https://cdn-icons-png.flaticon.com/512/1239/1239682.png"
+        },
+    
+        {
+            "name": "Forume LowTRE", 
+            "description": "", 
+            "auteur": "Université Grenoble Alpes",
+            "link": "http://forum-lowtre-ecosesa.univ-grenoble-alpes.fr",
+            "image": "http://forum-lowtre-ecosesa.univ-grenoble-alpes.fr/uploads/default/original/1X/bcd3acf616277c848f5a63940b2baafffc92c20d.jpeg"
+        },
+    
+        {
+            "name": "PicoJoules", 
+            "description": "", 
+            "auteur": "Félix Dupuy",
+            "link": "https://picojoule.fr/",
+            "image": "https://static.wixstatic.com/media/9c0294_10806d3e86b04622b058669f09f2be9c~mv2.png/v1/fill/w_758,h_206,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/banni%C3%A8reinternet_edited.png"
+        },
+    
+        {
+            "name": "Low-tech Lab", 
+            "description": "", 
+            "auteur": "",
+            "link": "https://lowtechlab.org/",
+            "image": "https://liglou.fr/wp-content/uploads/2020/12/LOW_TECH_CMJN.png"
+        }  
+
+]}

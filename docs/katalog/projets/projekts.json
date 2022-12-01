@@ -1,0 +1,21 @@
+{"projekts": [
+    
+        {
+            "name": "Capteur solaire thermique", 
+            "description": "Capter la chaleur des rayons du soleil et la redistribuer par soufflage d'air chaud dans la bati.", 
+            "auteur": "Konsilion",
+            "type": "1",
+            "link": "https://github.com/Konsilion/konsilion-drive/blob/main/katalog-dataset-exemple.csv",
+            "image": "https://wiki.lowtechlab.org/images/thumb/4/4b/Chauffage_solaire_version_ardoise_47949921956_479ae5b9ec_kk.jpg/800px-Chauffage_solaire_version_ardoise_47949921956_479ae5b9ec_kk.jpg"
+        },
+    
+        {
+            "name": "Biodigesteur domestique", 
+            "description": "Produire du biogaz par la décomposition controlée de matière organique.", 
+            "auteur": "Konsilion",            
+            "type": "2",
+            "link": "https://github.com/Konsilion/konsilion-drive/blob/main/katalog-dataset-exemple.csv",
+            "image": "https://wiki.lowtechlab.org/images/thumb/5/56/Biodigesteur_domestique_small_general.png/800px-Biodigesteur_domestique_small_general.png"
+        }  
+
+]}
