@@ -11,25 +11,22 @@
 
 nav:
 
-    - Présentation: index.md
-
-    - Projets : etc/projets/home.md
-
-    - Ressources: etc/ressources/home.md    
-
-    - Dépôts de données: etc/stockages/home.md
-
-    - Partenaires: etc/communaute/home.md
+    - Accueil: index.md
     
-    - Contacts: informations.md
-    
+    - Catalogues:
+
+        - Répertoires projets : katalog/projets/home.md
+
+        - Ressources: katalog/ressources/home.md
+
+    - En savoir plus: pages/informations.md
 
 
 
 # SITE INFORMATIONS 
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
-site_name: Konsilion - Plateforme de ressources ouvertes
+site_name: Catalogue de ressources ouvertes
 site_author: Nicolas Brémond
 site_description: Une plateforme de science ouverte et open-data, pour la Low-technologie.
 
