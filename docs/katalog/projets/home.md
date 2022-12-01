@@ -2,7 +2,7 @@
 
 <hr>
 
-<h2>Afficher les projets externes</h2> 
+<h2>Afficher les catalogues externes</h2> 
 
 <label class="ksln-switch"><input id="LoadAll" type="checkbox" onclick="document.getElementById('DatamiExternal').classList.toggle('hide');"><span class="slider round"></span></label>
 
