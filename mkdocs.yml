@@ -13,17 +13,21 @@ nav:
 
     - Accueil: index.md
     
-    - Recherche & Développement: 
-
-        - Kesako ?: pages/recherche-et-developpement/presentation.md
-        
-        - Répertoires projets : katalog/projets/home.md
+    - Recherche & Développement:
+    
+        - Projets : katalog/projets/home.md
 
         - Tâches: katalog/taches/home.md
+        
+        - Évenements: katalog/taches/home.md
 
         - Ressources: katalog/ressources/home.md
+        
+        - Personnes: katalog/ressources/home.md
+        
+        - 🔍 Moteur de recherche: katalog/search.md        
 
-    - À propos: pages/informations.md
+    - À propos: katalog/who/home.md
     
     - Contacts: pages/contacts.md
 
@@ -47,7 +51,7 @@ site_description: Développer, proposer et promouvoir la Low-technologie.
 theme:
     language: fr
     palette:
-        primary: grey
+        primary: green
         accent: green
         scheme: default
     logo: https://konsilion.fr/wp/wp-content/uploads/2022/08/image-250x300.png

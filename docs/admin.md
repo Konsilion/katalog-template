@@ -28,7 +28,8 @@ Modifier la page <a id="IndexLink" href="" target="_blank">Accueil</a>
 * Lien vers votre <a id="ConfigLink" href="" target="_blank"> fichier de configuration</a>
 
 
-
 ---
 
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/admin.js"></script>
+
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/konsilion.js"></script>

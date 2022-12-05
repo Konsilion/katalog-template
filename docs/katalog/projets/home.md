@@ -1,3 +1,8 @@
+---
+hide:
+    - toc
+---
+
 # **Développer, proposer et promouvoir la Low-technologie.**
 
 Nous proposons des outils et méthodes utiles au développement, à la fabrication et à l’appropriation de la Low-technologie.
@@ -23,52 +28,12 @@ Nous proposons des outils et méthodes utiles au développement, à la fabricati
 
 <hr>
 
-<h2>Afficher les catalogues externes</h2> 
+<h2>Afficher les catalogues externes</h2>
 
 <label class="ksln-switch"><input id="LoadAll" type="checkbox" onclick="document.getElementById('DatamiExternal').classList.toggle('hide');"><span class="slider round"></span></label>
 
 <div id="DatamiExternal" class="hide" style="padding-left:50px; border-left: 3px solid #EEE;"></div>
 
+<script id="CallDatami" type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/katalog/starter.js" defer></script>
 
-<button id="ShowNav">Afficher le menu<button>
-
-
-
-<script id="CallDatami" type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/katalog/starter.js"></script>
-
-
-<style>
-    .tip > summary {font-size: 15px;}
-    
-    #ShowNav {
-        background-color: var(--md-primary-fg-color);
-        color: white;    
-        font-size: 17px;
-        font-weight: 500;
-        position: fixed;
-        top: 30px;
-        left: 0px;
-        border-radius: 0 0 10px 0;
-        padding: 5px 25px; 
-        cursor: pointer;
-        z-index: 4;
-    }
-    
-    .md-main {
-        margin: auto;
-    }
-  
-    #HideNav {
-        background-color: #EEE;
-        color: grey;    
-        font-size: 17px;
-        font-weight: 500;
-        position: fixed;
-        top: 30px;
-        left: 225px;
-        width: 125px;
-        height: 40px;
-        cursor: pointer;
-    }
-    
-</style>
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/konsilion.js"></script>
