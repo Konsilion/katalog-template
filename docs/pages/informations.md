@@ -1,18 +1,6 @@
+# Qui sommes-nous ?
 
-
-
-**Nicolas Brémond** : nicolasbremond@konsilion.fr | 06 61 26 23 26
-
-
-[Accédez au site de Konsilion](https://konsilion.fr/){ .md-button }
-
-
-<script>
-    
-
-
-</script>
-
+(en cours de rédaction)
 
 ---
 

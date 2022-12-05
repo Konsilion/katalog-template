@@ -13,24 +13,28 @@ nav:
 
     - Accueil: index.md
     
-    - Catalogues:
+    - Recherche & Développement: 
 
+        - Kesako ?: pages/recherche-et-developpement/presentation.md
+        
         - Répertoires projets : katalog/projets/home.md
 
         - Tâches: katalog/taches/home.md
 
         - Ressources: katalog/ressources/home.md
 
-    - En savoir plus: pages/informations.md
+    - À propos: pages/informations.md
+    
+    - Contacts: pages/contacts.md
 
 
 
 # SITE INFORMATIONS 
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
-site_name: Catalogue de ressources ouvertes
+site_name: Konsilion - Low-technologie
 site_author: Nicolas Brémond
-site_description: Une plateforme de science ouverte et open-data, pour la Low-technologie.
+site_description: Développer, proposer et promouvoir la Low-technologie.
 
 
 
@@ -43,7 +47,7 @@ site_description: Une plateforme de science ouverte et open-data, pour la Low-te
 theme:
     language: fr
     palette:
-        primary: blue
+        primary: grey
         accent: green
         scheme: default
     logo: https://konsilion.fr/wp/wp-content/uploads/2022/08/image-250x300.png
@@ -52,6 +56,7 @@ theme:
     features:
       - navigation.indexes
       - navigation.tracking
+      - navigation.top
 
 
 
