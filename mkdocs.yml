@@ -25,9 +25,11 @@ nav:
         
         - Personnes: katalog/ressources/home.md
         
-        - 🔍 Moteur de recherche: katalog/search.md        
+        - 🔍 Moteur de recherche: katalog/search.md
+        
+    - Stockages: katalog/klouds/home.md
 
-    - À propos: katalog/who/home.md
+    - À propos: pages/informations.md
     
     - Contacts: pages/contacts.md
 
@@ -86,3 +88,6 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
