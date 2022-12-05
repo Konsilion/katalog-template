@@ -1,8 +1,8 @@
 {
     "informations": {
-        "name":"Qui sommes-nous ?",
+        "name":"Nos espaces de stockages de fichiers",
         "descr": "",
-        "model": "3",
+        "model": "2",
         "cardview": "true"
     },
     "external": {        

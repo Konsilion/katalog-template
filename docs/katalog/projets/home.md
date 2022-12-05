@@ -3,24 +3,9 @@ hide:
     - toc
 ---
 
-# **Développer, proposer et promouvoir la Low-technologie.**
+# **Nos principaux projets**
 
-Nous proposons des outils et méthodes utiles au développement, à la fabrication et à l’appropriation de la Low-technologie.
-
-??? tip "Qu'est ce que la Low-tech ?"
-
-    **Utile, Durable et accessible**
-    
-    ---
-    
-    « La ou les low-tech, mot à mot basses technologies, désignent une catégorie de produits, de services, de procédés ou autres systèmes permettant, via une transformation technique, organisationnelle et culturelle, le développement de nouveaux modèles de société intégrant, dans leurs principes fondamentaux, les exigences de durabilité forte et de résilience collective.
-
-    La low-tech n’est pas une démarche technophobe mais technocritique. Autrement dit, même si elle s’oppose à l’obsession de la high-tech, celle-ci s’accorde du principe de techno-discernement »
-    
-    ---
-    
-    Wikipédia 10-2022 – *Nous vous présentons la définition de Wikipédia car elle issue d’une réflexion collaborative, amenée à évoluer.*
-
+Les projets de Konsilion ont pour but de fournir les outils et documents nécessaires à la fabrication et l'adoption de la Low-technologie par le plus grand nombre. Ainsi nous laissons tout en open-source.
 
 ---
 
