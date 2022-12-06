@@ -11,7 +11,7 @@
 
 nav:
 
-    - Accueil: index.md
+    - Accueil: pages/accueil.md
     
     - Recherche & Développement:
         
@@ -25,7 +25,7 @@ nav:
         
         - Personnes: katalog/ressources/home.md
         
-        - 💾 Espace de stockages: katalog/klouds/home.md
+        - 💾 Médiathèque: katalog/klouds/home.md
 
     - À propos: pages/informations.md
     
@@ -54,8 +54,8 @@ theme:
         primary: green
         accent: green
         scheme: default
-    logo: https://konsilion.fr/wp/wp-content/uploads/2022/08/image-250x300.png
-    favicon: https://konsilion.fr/wp/wp-content/uploads/2022/08/image-250x300.png
+    logo: https://konsilion.fr/wp/wp-content/uploads/2022/04/Logo_Konsilion_V2-1024x325.png
+    favicon: https://konsilion.fr/wp/wp-content/uploads/2022/03/Logo_Konsilion_1.png
     name: material
     features:
       - navigation.indexes

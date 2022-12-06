@@ -25,9 +25,6 @@ Nous proposons des outils et méthodes utiles au développement, à la fabricati
     
     Wikipédia 10-2022 – *Nous vous présentons la définition de Wikipédia car elle issue d’une réflexion collaborative, amenée à évoluer.*
 
-
-
-
 ---
 
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/pages.js"></script>

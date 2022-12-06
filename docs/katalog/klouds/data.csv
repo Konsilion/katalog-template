@@ -1,5 +1,5 @@
 NOM DE LA RESSOURCE;DESCRIPTION;LIEN;IDs - FILTRES;IMAGE;AUTEUR.ICES
-Images;;;;
-Documents;;;;
-Vidéos;;;;
-Sons;;;;
+Images;Toutes vos images;https://github.com/konsilion/katalog-template/upload/master/docs/kloud/img;;
+Documents;Vos fichiers et documents divers;https://github.com/konsilion/katalog-template/upload/master/docs/kloud/doc;;
+Vidéos;Vos vidéos - à limiter;https://github.com/konsilion/katalog-template/upload/master/docs/kloud/vid;;
+Sons;Vos sons et enregistrements;https://github.com/konsilion/katalog-template/upload/master/docs/kloud/rec;;
