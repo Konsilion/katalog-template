@@ -3,11 +3,6 @@ hide:
     - toc
 ---
 
-# **Nos principaux projets**
-
-Les projets de Konsilion ont pour but de fournir les outils et documents nécessaires à la fabrication et l'adoption de la Low-technologie par le plus grand nombre. Ainsi nous laissons tout en open-source.
-
----
 
 <div id="DatamiMain"></div>
 
