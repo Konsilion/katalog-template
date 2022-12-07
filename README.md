@@ -6,6 +6,7 @@ Avec Katalog, diffusez ou retrouvez tout les savoirs dont vous avez besoin. Ains
 
 ![](https://konsilion.fr/wp/wp-content/uploads/2022/11/exemple-katalog-1024x544.png)
 
+![image](https://user-images.githubusercontent.com/99027754/206035683-e9b5f5bf-7495-45b6-930f-e198c37cd40b.png)
 
 
 
