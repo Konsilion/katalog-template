@@ -3,6 +3,9 @@ hide:
     - toc
 ---
 
+![](https://cdn.pixabay.com/photo/2019/03/12/12/47/people-4050698_960_720.jpg){: class="ksln-banner-img"}
+
+
 
 # À propos
 
@@ -40,13 +43,11 @@ C'est peu dire que le climat et la biodiversité ne sont pas dans une forme olym
 
     **RECHERCHE & DÉVELOPPEMENT** - Nous mettons à disposition tous les outils nécessaires à la R&D 'OpenSource'. Nous avons ainsi regroupé les outils numériques et les méthodes de développement en un unique lieu : La plateforme R&D Konsilion. Vous pouvez développer les modèles numériques, CFD, FEM ... mais également réaliser et suivre les prototypes partout en France.
 
----
 
-![](https://cdn.pixabay.com/photo/2019/03/12/12/47/people-4050698_960_720.jpg){: class="ksln-banner-img"}
 
 
 ---
 
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/modif-page.js"></script>
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/footer.js"></script>
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/slider-nav.js"></script>
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/modif-page.js" defer></script>
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/slider-nav.js" defer></script>
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/footer.js" defer></script>
