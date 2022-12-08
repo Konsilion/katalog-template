@@ -94,4 +94,9 @@ markdown_extensions:
   - attr_list
   - pymdownx.superfences
   - pymdownx.tabbed:
-      alternate_style: true 
+      alternate_style: true
+      
+extra_css:
+  - https://konsilion.github.io/katalog-setup/css/konsilion.css
+  - https://konsilion.github.io/katalog-setup/css/konsilion-mkdocs.css
+  - https://konsilion.github.io/katalog-setup/css/konsilion-datami.css

@@ -45,6 +45,8 @@ C'est peu dire que le climat et la biodiversité ne sont pas dans une forme olym
 ![](https://cdn.pixabay.com/photo/2019/03/12/12/47/people-4050698_960_720.jpg){: class="ksln-banner-img"}
 
 
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/pages.js"></script>
+---
 
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/konsilion.js"></script>
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/modif-page.js"></script>
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/footer.js"></script>
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/slider-nav.js"></script>

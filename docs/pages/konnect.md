@@ -85,6 +85,6 @@ Equipez vous des outils utiles au développement et à la diffusion de vos savoi
 ---
 
 
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/pages.js"></script>
-
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/konsilion.js"></script>
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/modif-page.js"></script>
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/footer.js"></script>
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/slider-nav.js"></script>
