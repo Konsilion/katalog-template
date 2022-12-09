@@ -87,7 +87,8 @@ copyright: Une plateforme open-source codé avec 🤍 par <a href="#">Konsilion<
 
 # AUTRES PARAMETRES - Ne pas modifier
 # --------------------------------------------------------------------------------------------------------------------------------------------------
-plugins: []
+plugins:
+  - search
 
 markdown_extensions:
   - admonition
