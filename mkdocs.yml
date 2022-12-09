@@ -71,12 +71,13 @@ theme:
 
 
 
-
+extra:
+  generator: false
 
 # MENTIONS 
 # --------------------------------------------------------------------------------------------------------------------------------------------------
 
-copyright: Konsilion - Licence juridique Creative Commons CC-BY-NC 4.0
+copyright: Une plateforme open-source codé avec 🤍 par <a href="#">Konsilion</a> - Licence juridique Creative Commons CC-BY-NC 4.0 <br> Un grand merci à multi et mkdocs-material pour le support technique 
 
 
 
@@ -86,7 +87,8 @@ copyright: Konsilion - Licence juridique Creative Commons CC-BY-NC 4.0
 
 # AUTRES PARAMETRES - Ne pas modifier
 # --------------------------------------------------------------------------------------------------------------------------------------------------
-plugins: []
+plugins:
+  - search
 
 markdown_extensions:
   - admonition
