@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-![](https://cdn.pixabay.com/photo/2019/03/12/12/47/people-4050698_960_720.jpg){: class="ksln-banner-img"}
+<!-- ![](https://cdn.pixabay.com/photo/2019/03/12/12/47/people-4050698_960_720.jpg){: class="ksln-banner-img"} -->
 
 
 
@@ -48,6 +48,4 @@ C'est peu dire que le climat et la biodiversité ne sont pas dans une forme olym
 
 ---
 
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/modif-page.js" defer></script>
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/slider-nav.js" defer></script>
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/footer.js" defer></script>

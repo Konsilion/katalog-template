@@ -28,5 +28,4 @@ Modifier la page <a id="IndexLink" href="" target="_blank">Accueil</a>
 ---
 
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/admin.js"></script>
-
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/konsilion.js"></script>
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/slider-nav.js" defer></script>
