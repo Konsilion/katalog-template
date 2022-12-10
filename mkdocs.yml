@@ -58,8 +58,8 @@ site_description: Développer, proposer et promouvoir la Low-technologie.
 theme:
     language: fr
     palette:
-        primary: grey
-        accent: green
+        primary: green
+        accent: blue
         scheme: default
     logo: https://konsilion.fr/wp/wp-content/uploads/2022/04/Logo_Konsilion_V2-1024x325.png
     favicon: https://konsilion.fr/wp/wp-content/uploads/2022/03/Logo_Konsilion_1.png
@@ -95,6 +95,9 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
@@ -102,3 +105,6 @@ markdown_extensions:
 extra_css:
   - https://konsilion.github.io/katalog-setup/css/konsilion-datami.css
   - https://konsilion.github.io/katalog-setup/css/konsilion-mkdocs.css
+  
+extra_js:
+  - https://kit.fontawesome.com/f9666d4f53.js
