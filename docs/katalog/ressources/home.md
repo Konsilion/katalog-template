@@ -3,11 +3,11 @@ hide:
     - toc
 ---
 
+#
+
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/slider-nav.js" async></script>
 
-<script id="CallDatami" type="text/javascript" src="../../katalog.js" defer></script>
-
-<script type="text/javascript" src="https://datami-widget.multi.coop/js/app.js" defer></script>
+<script id="CallDatami" type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/katalog/starter.js" defer></script>
 
 <div id="DatamiMain"></div>
 

@@ -47,8 +47,8 @@ site_author: Nicolas Brémond
 site_description: Développer, proposer et promouvoir la Low-technologie.
 
 
-repo_url: https://github.com/konsilion/katalog-template/
-edit_uri: edit/master/docs/
+# repo_url: https://github.com/konsilion/katalog-template/
+# edit_uri: edit/master/docs/
 
 # LANGUE, COULEURS et LOGO
 #
