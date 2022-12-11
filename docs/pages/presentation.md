@@ -1,7 +1,9 @@
 ---
 hide:
-    - toc
+  - toc
 ---
+
+
 
 
 
@@ -29,12 +31,11 @@ Konsilion **plateforme R&D**, repose sur le fonctionnement simultané de la prod
 
     * **Documentations & Supports pédagogiques** – Présenter l’ensemble des méthodes, opérations et résultats permettant la transmission des savoirs et des usages.
     
-    * **Modélisations & Data** – Divers outils informatiques utile à la R&D (modélisation, conception, CAO, etc.)
-    
-    * **Prototypes & Laboratoires** – Valider « dans le vrai monde » les modèles numériques afin de dégager et étudier les écarts entre la modélisation et la réalisation.
-    
-    * **Plans & Fabrication** – Toutes les étapes et astuces de fabrication, les plans papiers, numériques et même 3D quand disponibles.
+    * **Pas de serveur à gérer** – vos données et projets sont distribués. Cela est possible avec la technologie Git. Cela facilite la diffusion et l’appropriation des savoirs. Git
 
+    * **Site Web en quelques minutes** – afin de présenter et diffuser vos projets (comme la documentation de Konnect par exemple) Mkdocs Material
+    
+    * **Documentation scientifique** – Présenter vos résultats et analyses. Konnect permet d’embarquer des résultats, graphiques, tableau, etc. au sein de vos documentations. JupyterBook 
 
     [En savoir plus sur Katalog](../katalog){ .md-button }
 
@@ -45,14 +46,16 @@ Konsilion **plateforme R&D**, repose sur le fonctionnement simultané de la prod
     
     Du traitement à la valorisation de vos savoirs, embarquez de nombreuses solutions et outils utiles à la gestion et au développement de vos projets.
 
-    * **Site Web en quelques minutes** – afin de présenter et diffuser vos projets (comme la documentation de Konnect par exemple) Mkdocs Material
-    
-    * **Documentation scientifique** – Présenter vos résultats et analyses. Konnect permet d’embarquer des résultats, graphiques, tableau, etc. au sein de vos documentations. JupyterBook
     
     * **Tout pour la Data Science** – Konnect repose sur la technologie Conda. Ainsi vous pouvez déployer sur votre ordinateur tous les outils utiles à la DataScience (Jupyter, FreeCAD, Spyder, etc.) Conda
+
+    * **Modélisations & Data** – Divers outils informatiques utile à la R&D (modélisation, conception, CAO, etc.)
     
-    * **Pas de serveur à gérer** – vos données et projets sont distribués. Cela est possible avec la technologie Git. Cela facilite la diffusion et l’appropriation des savoirs. Git
+    * **Prototypes & Laboratoires** – Valider « dans le vrai monde » les modèles numériques afin de dégager et étudier les écarts entre la modélisation et la réalisation.
     
+    * **Plans & Fabrication** – Toutes les étapes et astuces de fabrication, les plans papiers, numériques et même 3D quand disponibles.
+    
+
     Bien d’autres usages à découvrir (comme la création d’applications Web avec Mercury)
 
     ![technologies-konnect](https://user-images.githubusercontent.com/99027754/206035683-e9b5f5bf-7495-45b6-930f-e198c37cd40b.png){: style="margin: 20px; max-width: 600px; width: 100%; float: right"}
