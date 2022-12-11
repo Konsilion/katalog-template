@@ -32,8 +32,9 @@ Nous proposons des outils et méthodes utiles au développement, à la fabricati
 
 [Paramètres](../../admin){ .md-button style="float: right; padding: 0px; border: 0px solid #DDD; color: #DDD; font-weight: 300; font-size: 17px; margin-left: 10px;"}
 
+
 ---
 
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/slider-nav.js" defer></script>
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/modif-page.js" defer></script>
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/add-page.js" defer></script>
+<script type="text/javascript" src="../add-page.js" defer></script>
