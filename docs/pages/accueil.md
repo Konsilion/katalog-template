@@ -1,7 +1,10 @@
 ---
 hide:
-    - toc
+  - toc
+  - navigation
 ---
+
+
 
 
 
