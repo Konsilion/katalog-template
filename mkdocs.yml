@@ -58,7 +58,7 @@ site_description: Développer, proposer et promouvoir la Low-technologie.
 theme:
     language: fr
     palette:
-        primary: green
+        primary: orange
         accent: blue
         scheme: default
     logo: https://konsilion.fr/wp/wp-content/uploads/2022/04/Logo_Konsilion_V2-1024x325.png
