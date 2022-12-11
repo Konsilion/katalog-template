@@ -1,4 +1,4 @@
 ID;DESIGNATION;DESCRIPTION;LIEN;CATEGORIES;ETAT
 1;Katalog - Plateforme de ressources ouvertes;en cours;https://github.com/Konsilion/katalog-template/;Disponible;undefined
 2;Konnect - Couteau suisse de la Data Science;en cours;https://github.com/Konsilion/Konnect;En cours;undefined
-3;Ordinateur Raspberry Py;Ordinateur portable sur la base d'un Raspberry Py 3+;https://github.com/Konsilion/katalog-template/blob/master/docs/pages/projets/ordinateur-low-tech.md;Numerique;En cours
+3;Ordinateur Raspberry Py;Ordinateur portable sur la base d'un Raspberry Py 3+;https://konsilion.github.io/katalog-template/pages/projets/ordinateur-low-tech.md;Numerique;En cours
