@@ -29,7 +29,7 @@ Nous proposons des outils et méthodes utiles au développement, à la fabricati
 
 
 
-![Paramètres](https://cdn-icons-png.flaticon.com/512/149/149071.png){ .md-button .md-button--primary onclick="window.open('../../admin','_self');" style="float: right; position: absolute; bottom:10px; right:10px; z-index: 10; height: 40px; padding: 2px; margin: 5px 5px auto auto; border-radius: 50px; border-color: white;"}
+![Paramètres](https://cdn-icons-png.flaticon.com/512/148/148913.png){ .md-button .md-button--primary onclick="window.open('../../admin','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
 
 ---
