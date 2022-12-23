@@ -2,7 +2,7 @@
     "informations": {
         "name":"Nos espaces de stockages de fichiers",
         "descr": "",
-        "model": "2",
+        "model": "projet",
         "cardview": "true"
     },
     "external": {        

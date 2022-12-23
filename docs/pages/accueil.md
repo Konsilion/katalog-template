@@ -28,8 +28,12 @@ Nous proposons des outils et méthodes utiles au développement, à la fabricati
     Wikipédia 10-2022 – *Nous vous présentons la définition de Wikipédia car elle issue d’une réflexion collaborative, amenée à évoluer.*
 
 
+![Klouds](https://cdn-icons-png.flaticon.com/512/3208/3208676.png){ .md-button .md-button--primary onclick="window.open('../../katalog/klouds/home','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
-![Paramètres](https://cdn-icons-png.flaticon.com/512/148/148913.png){ .md-button .md-button--primary onclick="window.open('../../admin','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
+
+
+![Paramètres](https://cdn-icons-png.flaticon.com/512/148/148913.png){ .md-button .md-button--primary onclick="window.open('../../admin','_self');" style="float: right; position: absolute; top:120px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
+
 
 
 ---
