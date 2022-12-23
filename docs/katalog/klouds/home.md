@@ -18,4 +18,5 @@ hide:
 }
 </style>
 
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/slider-nav.js" defer></script>
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/katalog-modif.js" defer></script>
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>
