@@ -1,10 +1,9 @@
 {
-    "informations": {
-        "name":"Konsilion",
-        "descr": "Praesent dignissim quis orci in mattis. Nullam vitae magna dignissim, dictum est id, mollis nibh. Curabitur consectetur, neque id rutrum viverra, quam purus viverra erat, eget dapibus ante mauris id sapien.",
-        "model": "ressource",
-        "cardview": "true"
-    },
-    "external": {        
-    }
+  "informations": {
+    "name": "Konsilion",
+    "descr": "",
+    "model": "ressource",
+    "cardview": "true"
+  },
+  "external": {}
 }
