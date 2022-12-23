@@ -4,7 +4,9 @@ hide:
 ---
 
 
-<div id="DatamiMain"></div>
+<div id="DatamiMain">
+
+</div>
 
 <hr>
 
@@ -14,5 +16,6 @@ hide:
 
 <div id="DatamiExternal" class="hide" style="padding-left:50px; border-left: 3px solid #EEE;"></div>
 
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/slider-nav.js" defer></script>
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/katalog/starter.js" defer></script>
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/add-page.js" defer></script>
