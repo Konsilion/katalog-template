@@ -33,5 +33,5 @@ Nous proposons des outils et méthodes utiles au développement, à la fabricati
 
 ---
 
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/modif-page.js" defer></script>
-<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/add-page.js" defer></script>
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script>
+<script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/add-page.js" defer></script>
