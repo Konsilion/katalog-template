@@ -4,9 +4,7 @@ hide:
 ---
 
 
-<div id="DatamiMain">
-
-</div>
+<div id="DatamiMain"></div>
 
 <hr>
 
@@ -19,13 +17,3 @@ hide:
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/katalog-modif.js" defer></script>
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/katalog/starter.js" defer></script>
-
-
-<style>
-	@media only screen and (min-width: 1220px) {
-		.md-content{
-			margin: 50px auto;
-            max-width: 1440px;
-		}
-	}
-</style>
