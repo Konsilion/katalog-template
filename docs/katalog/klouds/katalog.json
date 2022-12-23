@@ -2,7 +2,7 @@
     "informations": {
         "name":"Nos espaces de stockages de fichiers",
         "descr": "",
-        "model": "projet",
+        "model": "kloud",
         "cardview": "true"
     },
     "external": {        

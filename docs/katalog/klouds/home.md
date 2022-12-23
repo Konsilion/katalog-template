@@ -3,8 +3,6 @@ hide:
     - toc
 ---
 
-#
-
 <div id="DatamiMain"></div>
 
 ---
