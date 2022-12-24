@@ -12,20 +12,10 @@ hide:
 * 06 61 26 23 26
 * Grenoble, ISÈRE
 
----
-
-
-
-## **Lundi – Vendredi**
-
-### 8h00 – 12h30 
-
-### 14h00 – 18h00
-
+[👉 LinkedIn ](https://www.linkedin.com/company/konsilion/){.md-button target="_blank"}
 
 ---
 
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script>
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/add-page.js" defer></script>
-
