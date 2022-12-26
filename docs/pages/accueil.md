@@ -5,7 +5,7 @@ hide:
 
 
 
-![logo-accueil](https://konsilion.fr/wp/wp-content/uploads/2022/04/Logo_Konsilion_V2-1024x325.png){style="max-width: 100%; width: 500px"}
+![logo-accueil](https://user-images.githubusercontent.com/99027754/209584792-ba744c8b-b858-4b4e-a8c4-aca895bb876c.png){style="max-width: 100%; width: 500px"}
 
 ---
 
