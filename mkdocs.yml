@@ -21,11 +21,11 @@ nav:
         
         - Ressources: katalog/ressources/home.md
         
-    - Ingénierie collaborative:
+        - Ingénierie collaborative:
 
-        - De quoi parlons nous ?: pages/presentation.md
+            - De quoi parlons nous ?: pages/presentation.md
 
-        - Katalog: pages/katalog.md
+            - Katalog: pages/katalog.md
 
     - À propos: pages/informations.md
 
