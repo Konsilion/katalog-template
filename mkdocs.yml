@@ -27,11 +27,7 @@ nav:
 
         - Katalog: pages/katalog.md
 
-        - Konnect: pages/konnect.md   
-
     - À propos: pages/informations.md
-    
-    - Contacts: pages/contacts.md
 
 
 
@@ -98,6 +94,7 @@ markdown_extensions:
 extra_css:
   - https://konsilion.github.io/katalog-setup/css/konsilion-datami.css
   - https://konsilion.github.io/katalog-setup/css/konsilion-mkdocs.css
+  - https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css
   
 extra_js:
   - https://kit.fontawesome.com/f9666d4f53.js

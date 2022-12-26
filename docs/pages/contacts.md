@@ -6,11 +6,6 @@ hide:
 <!-- ![](https://cdn.pixabay.com/photo/2020/05/19/12/59/phone-5190643_960_720.jpg){: class="ksln-banner-img"} -->
 
 
-# **Contact**
-
-* contact@konsilion.fr
-* 06 61 26 23 26
-* Grenoble, ISÈRE
 
 [👉 LinkedIn ](https://www.linkedin.com/company/konsilion/){.md-button target="_blank"}
 

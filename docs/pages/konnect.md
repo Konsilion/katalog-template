@@ -12,23 +12,24 @@ Equipez vous des outils utiles au développement et à la diffusion de vos savoi
 
 === "Presentation"
 
-
-    ## Pour une **Recherche & Développement** libre et collaborative
-
-
-    Voici quatres grands principes nécessaires à la réalisation de projets collaboratifs.
-
-
-    * **Open community** : La communauté est du fait de la notion de collaboration, un pilier centrale. Incontournable, elle apporte soutient et intéligence collective, que nous pensons favorite face à la course à l'Inteligence Artificielle.
-    * **Open data** : Les donnnées en libre accès sont essentielless pour alimenter les modèlisations, analyser leur pertinence et valider les hypothèses.
-    * **Open model** : Les modèles numériques sont développés afin d'anticiper une technique, un comportement et ses effets dans le "vrai monde". Ainsi déployés, les modèles permettent de corriger les écarts en comparant avec les mesures et résultats de prototypes.
-    * **Open doc** : La documentation permet de traverser les âges et de pérenniser un projet. Utile à la médiation et pouvant être utilisée pour la formation, une documentation de qualité est essentielle pour qu'un projet soit constructif et transmissible.
-
-
-
-
-    ---
-
+    <div class="ksln-grid">
+        <div class="ksln-cards"><b>Tout pour la Data Science</b>
+            <hr>
+            Konnect repose sur la technologie Conda. Ainsi vous pouvez déployer sur votre ordinateur tous les outils utiles à la DataScience (Jupyter, FreeCAD, Spyder, etc.) Conda
+        </div>
+        <div class="ksln-cards"><b>Modélisations & Data</b>
+            <hr>
+            Divers outils informatiques utile à la R&D (modélisation, conception, CAO, etc.)
+        </div>
+        <div class="ksln-cards"><b>Prototypes & Laboratoires</b>
+            <hr>
+            Valider « dans le vrai monde » les modèles numériques afin de dégager et étudier les écarts entre la modélisation et la réalisation.
+        </div>
+        <div class="ksln-cards"><b>Plans & Fabrication</b>
+            <hr>
+            Toutes les étapes et astuces de fabrication, les plans papiers, numériques et même 3D quand disponibles.
+        </div> 
+    </div>
 
     ## À **quels besoins** répond Konnect ?
 
@@ -59,23 +60,14 @@ Equipez vous des outils utiles au développement et à la diffusion de vos savoi
 
     Jupyter Notebook : Les Jupyter Notebook permettent la création et le partage de documents informatiques. Ils offrent une expérience simple, rationalisée et centrée sur les résultats et leur mise en contexte. Ils nécessitent néanmoins une certaine installation informatique et quelques connaissances de base. Pour <u>partager plus efficacement</u> vos travaux, l'application Mercury est idéale.
     Mercury de Mljar : Transformez vos carnets de notes Jupyter en applications web grâce au framework open-source Mercury. Cachez le code et ajoutez des widgets interactifs. Les utilisateurs non techniques peuvent ainsi user simplement des widgets et exécuter le notebook avec de nouveaux paramètres, sans installation préalable.
-    
-    
+
+
     ---
 
 
     Afin que la compréhension des outils n'interfère pas avec l'acquisition des méthodes.
 
 
-=== "Installation"
-
-
----
-
-
-!!! success ""
-
-    Technologies embarquées
 
 
 ![technologies-konnect](https://user-images.githubusercontent.com/99027754/206035683-e9b5f5bf-7495-45b6-930f-e198c37cd40b.png){: style="max-width: 600px; width: 100%"}

@@ -44,6 +44,14 @@ C'est peu dire que le climat et la biodiversité ne sont pas dans une forme olym
     **RECHERCHE & DÉVELOPPEMENT** - Nous mettons à disposition tous les outils nécessaires à la R&D 'OpenSource'. Nous avons ainsi regroupé les outils numériques et les méthodes de développement en un unique lieu : La plateforme R&D Konsilion. Vous pouvez développer les modèles numériques, CFD, FEM ... mais également réaliser et suivre les prototypes partout en France.
 
 
+---
+
+## **Contact**
+
+* contact@konsilion.fr
+* 06 61 26 23 26
+* Grenoble, ISÈRE
+
 
 
 ---

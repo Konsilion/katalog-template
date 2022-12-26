@@ -30,9 +30,12 @@ Nous proposons des outils et méthodes utiles au développement, à la fabricati
 
 ![Paramètres](https://cdn-icons-png.flaticon.com/512/148/148913.png){ .md-button .md-button--primary onclick="window.open('../../admin','_self');" style="float: right; position: absolute; top:60px; right:10px; height: 40px; padding: 5px; margin: 5px 5px auto auto; border-radius: 50px; border: 3px solid grey;"}
 
+<br>
+
+[Nous contacter](../informations/#contact){ .md-button .md-button--secondary style="float: right;"}
 
 
----
+
 
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/slider-nav.js" defer></script>
 <script type="text/javascript" src="https://konsilion.github.io/katalog-setup/js/functionality/modif-page.js" defer></script>
