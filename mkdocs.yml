@@ -14,6 +14,12 @@ nav:
     - Accueil: pages/accueil.md
     
     - Recherche & Développement:
+
+        - Ingénierie collaborative:
+
+            - De quoi parlons nous ?: pages/presentation.md
+
+            - Katalog: pages/katalog.md
         
         - Projets: katalog/projets/home.md
 
@@ -21,12 +27,6 @@ nav:
         
         - Ressources: katalog/ressources/home.md
         
-        - Ingénierie collaborative:
-
-            - De quoi parlons nous ?: pages/presentation.md
-
-            - Katalog: pages/katalog.md
-
     - À propos: pages/informations.md
 
 
