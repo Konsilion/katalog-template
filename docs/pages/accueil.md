@@ -3,7 +3,9 @@ hide:
   - toc
 ---
 
-![logo-accueil](https://user-images.githubusercontent.com/99027754/209585047-f1e419f1-8f55-43d2-bfc6-6d51aec13ecf.png){style="max-width: 100%; width: 500px"}
+
+
+![logo-accueil](https://user-images.githubusercontent.com/99027754/209585047-f1e419f1-8f55-43d2-bfc6-6d51aec13ecf.png){style="max-width: 100%; width: 550px"}
 
 ---
 
