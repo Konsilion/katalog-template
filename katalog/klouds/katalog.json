@@ -1,0 +1,10 @@
+{
+    "informations": {
+        "name":"Nos espaces de stockages de fichiers",
+        "descr": "",
+        "model": "kloud",
+        "cardview": "true"
+    },
+    "external": {        
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "informations": {
+    "name": "Konsilion - Low-tech",
+    "descr": "",
+    "model": "projet",
+    "cardview": "true"
+  },
+  "external": {
+    "Picojoule": {
+      "descr": "",
+      "url": "https://github.com/Konsilion/katalog-template/blob/master/docs/katalog/ressources/data.csv",
+      "token": "",
+      "activate": "true"
+    },
+    "Lowtech-Lab": {
+      "descr": "",
+      "url": "https://github.com/Konsilion/katalog-template/blob/master/docs/katalog/projets/data.csv",
+      "token": "",
+      "activate": "true"
+    }
+  }
+}
