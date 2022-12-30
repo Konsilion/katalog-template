@@ -65,7 +65,6 @@ theme:
 
 extra:
   generator: false
-  katalog_repo: "https://github.com/squidfunk/mkdocs-material"
 
 # MENTIONS 
 # --------------------------------------------------------------------------------------------------------------------------------------------------
